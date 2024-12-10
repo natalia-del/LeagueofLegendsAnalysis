@@ -1,0 +1,1750 @@
+Champion,Skin Name,Skin ID,Has Chromas,Image URL
+Aatrox,default,266000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg
+Aatrox,Justicar Aatrox,266001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_1.jpg
+Aatrox,Mecha Aatrox,266002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_2.jpg
+Aatrox,Sea Hunter Aatrox,266003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_3.jpg
+Aatrox,Blood Moon Aatrox,266007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg
+Aatrox,Prestige Blood Moon Aatrox,266008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_8.jpg
+Aatrox,Victorious Aatrox,266009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_9.jpg
+Aatrox,Odyssey Aatrox,266011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_11.jpg
+Aatrox,Prestige Blood Moon Aatrox (2022),266020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_20.jpg
+Aatrox,Lunar Eclipse Aatrox,266021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_21.jpg
+Aatrox,DRX Aatrox,266030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_30.jpg
+Aatrox,Prestige DRX Aatrox,266031,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_31.jpg
+Aatrox,Primordian Aatrox,266033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_33.jpg
+Ahri,default,103000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg
+Ahri,Dynasty Ahri,103001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_1.jpg
+Ahri,Midnight Ahri,103002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_2.jpg
+Ahri,Foxfire Ahri,103003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_3.jpg
+Ahri,Popstar Ahri,103004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_4.jpg
+Ahri,Challenger Ahri,103005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_5.jpg
+Ahri,Academy Ahri,103006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg
+Ahri,Arcade Ahri,103007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_7.jpg
+Ahri,Star Guardian Ahri,103014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_14.jpg
+Ahri,K/DA Ahri,103015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_15.jpg
+Ahri,Prestige K/DA Ahri,103016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_16.jpg
+Ahri,Elderwood Ahri,103017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_17.jpg
+Ahri,Spirit Blossom Ahri,103027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_27.jpg
+Ahri,K/DA ALL OUT Ahri,103028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_28.jpg
+Ahri,Coven Ahri,103042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_42.jpg
+Ahri,Prestige K/DA Ahri (2022),103065,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_65.jpg
+Ahri,Arcana Ahri,103066,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_66.jpg
+Ahri,Snow Moon Ahri,103076,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_76.jpg
+Ahri,Risen Legend Ahri,103085,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_85.jpg
+Ahri,Immortalized Legend Ahri,103086,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_86.jpg
+Akali,default,84000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg
+Akali,Stinger Akali,84001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_1.jpg
+Akali,Infernal Akali,84002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_2.jpg
+Akali,All-star Akali,84003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_3.jpg
+Akali,Nurse Akali,84004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_4.jpg
+Akali,Blood Moon Akali,84005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_5.jpg
+Akali,Silverfang Akali,84006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_6.jpg
+Akali,Headhunter Akali,84007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_7.jpg
+Akali,Sashimi Akali,84008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_8.jpg
+Akali,K/DA Akali,84009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_9.jpg
+Akali,Prestige K/DA Akali,84013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_13.jpg
+Akali,PROJECT: Akali,84014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_14.jpg
+Akali,True Damage Akali,84015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_15.jpg
+Akali,K/DA ALL OUT Akali,84032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_32.jpg
+Akali,Crime City Nightmare Akali,84050,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_50.jpg
+Akali,Prestige K/DA Akali (2022),84060,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_60.jpg
+Akali,Star Guardian Akali,84061,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_61.jpg
+Akali,DRX Akali,84068,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_68.jpg
+Akali,Coven Akali,84070,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_70.jpg
+Akali,Prestige Coven Akali,84071,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_71.jpg
+Akali,Empyrean Akali,84082,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_82.jpg
+Akshan,default,166000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg
+Akshan,Cyber Pop Akshan,166001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_1.jpg
+Akshan,Crystal Rose Akshan,166010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_10.jpg
+Akshan,Three Honors Akshan,166020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_20.jpg
+Alistar,default,12000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg
+Alistar,Black Alistar,12001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_1.jpg
+Alistar,Golden Alistar,12002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_2.jpg
+Alistar,Matador Alistar,12003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_3.jpg
+Alistar,Longhorn Alistar,12004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_4.jpg
+Alistar,Unchained Alistar,12005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_5.jpg
+Alistar,Infernal Alistar,12006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_6.jpg
+Alistar,Sweeper Alistar,12007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_7.jpg
+Alistar,Marauder Alistar,12008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_8.jpg
+Alistar,SKT T1 Alistar,12009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_9.jpg
+Alistar,Moo Cow Alistar,12010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_10.jpg
+Alistar,Hextech Alistar,12019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_19.jpg
+Alistar,Conqueror Alistar,12020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_20.jpg
+Alistar,Blackfrost Alistar,12022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_22.jpg
+Alistar,Lunar Beast Alistar,12029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_29.jpg
+Ambessa,default,799000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg
+Ambessa,Chosen of the Wolf Ambessa,799001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_1.jpg
+Amumu,default,32000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg
+Amumu,Pharaoh Amumu,32001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_1.jpg
+Amumu,Vancouver Amumu,32002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_2.jpg
+Amumu,Emumu,32003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_3.jpg
+Amumu,Re-Gifted Amumu,32004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_4.jpg
+Amumu,Almost-Prom King Amumu,32005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_5.jpg
+Amumu,Little Knight Amumu,32006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_6.jpg
+Amumu,Sad Robot Amumu,32007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_7.jpg
+Amumu,Surprise Party Amumu,32008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_8.jpg
+Amumu,Infernal Amumu,32017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_17.jpg
+Amumu,Hextech Amumu,32023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_23.jpg
+Amumu,Pumpkin Prince Amumu,32024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_24.jpg
+Amumu,Porcelain Amumu,32034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_34.jpg
+Amumu,Heartache Amumu,32044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_44.jpg
+Anivia,default,34000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg
+Anivia,Team Spirit Anivia,34001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_1.jpg
+Anivia,Bird of Prey Anivia,34002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_2.jpg
+Anivia,Noxus Hunter Anivia,34003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_3.jpg
+Anivia,Hextech Anivia,34004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_4.jpg
+Anivia,Blackfrost Anivia,34005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_5.jpg
+Anivia,Prehistoric Anivia,34006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_6.jpg
+Anivia,Festival Queen Anivia,34007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_7.jpg
+Anivia,Papercraft Anivia,34008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_8.jpg
+Anivia,Cosmic Flight Anivia,34017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_17.jpg
+Anivia,Divine Phoenix Anivia,34027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_27.jpg
+Anivia,Bewitching Batnivia,34037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_37.jpg
+Anivia,Victorious Anivia,34046,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_46.jpg
+Annie,default,1000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg
+Annie,Goth Annie,1001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_1.jpg
+Annie,Red Riding Annie,1002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_2.jpg
+Annie,Annie in Wonderland,1003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_3.jpg
+Annie,Prom Queen Annie,1004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_4.jpg
+Annie,Frostfire Annie,1005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_5.jpg
+Annie,Reverse Annie,1006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_6.jpg
+Annie,FrankenTibbers Annie,1007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_7.jpg
+Annie,Panda Annie,1008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_8.jpg
+Annie,Sweetheart Annie,1009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_9.jpg
+Annie,Hextech Annie,1010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_10.jpg
+Annie,Super Galaxy Annie,1011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_11.jpg
+Annie,Annie-Versary,1012,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_12.jpg
+Annie,Lunar Beast Annie,1013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_13.jpg
+Annie,Cafe Cuties Annie,1022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_22.jpg
+Annie,Fright Night Annie,1031,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_31.jpg
+Annie,Winterblessed Annie,1040,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_40.jpg
+Annie,Battle Princess Annie,1050,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_50.jpg
+Aphelios,default,523000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg
+Aphelios,Nightbringer Aphelios,523001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_1.jpg
+Aphelios,Lunar Beast Aphelios,523009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_9.jpg
+Aphelios,EDG Aphelios,523018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_18.jpg
+Aphelios,Spirit Blossom Aphelios,523020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_20.jpg
+Aphelios,HEARTSTEEL Aphelios,523030,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_30.jpg
+Ashe,default,22000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg
+Ashe,Freljord Ashe,22001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_1.jpg
+Ashe,Sherwood Forest Ashe,22002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_2.jpg
+Ashe,Woad Ashe,22003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_3.jpg
+Ashe,Queen Ashe,22004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_4.jpg
+Ashe,Amethyst Ashe,22005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_5.jpg
+Ashe,Heartseeker Ashe,22006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_6.jpg
+Ashe,Marauder Ashe,22007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_7.jpg
+Ashe,PROJECT: Ashe,22008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_8.jpg
+Ashe,Worlds 2017 Ashe,22009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_9.jpg
+Ashe,Cosmic Queen Ashe,22011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_11.jpg
+Ashe,High Noon Ashe,22017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_17.jpg
+Ashe,Fae Dragon Ashe,22023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_23.jpg
+Ashe,Coven Ashe,22032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_32.jpg
+Ashe,Ocean Song Ashe,22043,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_43.jpg
+Ashe,Lunar Empress Ashe,22052,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_52.jpg
+Ashe,DRX Ashe,22063,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_63.jpg
+Ashe,Crystalis Motus Ashe,22065,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_65.jpg
+Ashe,Infernal Ashe,22067,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_67.jpg
+Aurelionsol,No data,No data,No data,No data
+Aurora,default,893000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg
+Aurora,Battle Bunny Aurora,893001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_1.jpg
+Azir,default,268000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg
+Azir,Galactic Azir,268001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_1.jpg
+Azir,Gravelord Azir,268002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_2.jpg
+Azir,SKT T1 Azir,268003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_3.jpg
+Azir,Warring Kingdoms Azir,268004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_4.jpg
+Azir,Elderwood Azir,268005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_5.jpg
+Azir,Worlds 2022 Azir,268014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_14.jpg
+Azir,Attorney Azir,268019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_19.jpg
+Bard,default,432000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg
+Bard,Elderwood Bard,432001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_1.jpg
+Bard,Snow Day Bard,432005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_5.jpg
+Bard,Bard Bard,432006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_6.jpg
+Bard,Astronaut Bard,432008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_8.jpg
+Bard,Cafe Cuties Bard,432017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_17.jpg
+Bard,Shan Hai Scrolls Bard,432026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_26.jpg
+Bard,T1 Bard,432035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_35.jpg
+Belveth,default,200000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg
+Belveth,Battle Boss Bel'Veth,200001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_1.jpg
+Belveth,Cosmic Matriarch Bel'Veth,200010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_10.jpg
+Belveth,Primordian Bel'Veth,200019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_19.jpg
+Blitzcrank,default,53000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg
+Blitzcrank,Rusty Blitzcrank,53001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_1.jpg
+Blitzcrank,Goalkeeper Blitzcrank,53002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_2.jpg
+Blitzcrank,Boom Boom Blitzcrank,53003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_3.jpg
+Blitzcrank,Piltover Customs Blitzcrank,53004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg
+Blitzcrank,Definitely Not Blitzcrank,53005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_5.jpg
+Blitzcrank,iBlitzcrank,53006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_6.jpg
+Blitzcrank,Riot Blitzcrank,53007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_7.jpg
+Blitzcrank,Battle Boss Blitzcrank,53011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_11.jpg
+Blitzcrank,Lancer Rogue Blitzcrank,53020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_20.jpg
+Blitzcrank,Lancer Paragon Blitzcrank,53021,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_21.jpg
+Blitzcrank,Witch's Brew Blitzcrank,53022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_22.jpg
+Blitzcrank,Space Groove Blitz & Crank,53029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_29.jpg
+Blitzcrank,Victorious Blitzcrank,53036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_36.jpg
+Blitzcrank,Zenith Games Blitzcrank,53047,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_47.jpg
+Blitzcrank,Beezcrank,53056,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_56.jpg
+Brand,default,63000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg
+Brand,Apocalyptic Brand,63001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_1.jpg
+Brand,Vandal Brand,63002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_2.jpg
+Brand,Cryocore Brand,63003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_3.jpg
+Brand,Zombie Brand,63004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_4.jpg
+Brand,Spirit Fire Brand,63005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_5.jpg
+Brand,Battle Boss Brand,63006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_6.jpg
+Brand,Arclight Brand,63007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_7.jpg
+Brand,Eternal Dragon Brand,63008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_8.jpg
+Brand,Debonair Brand,63021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_21.jpg
+Brand,Prestige Debonair Brand,63022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_22.jpg
+Brand,Street Demons Brand,63033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_33.jpg
+Brand,Empyrean Brand,63042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_42.jpg
+Braum,default,201000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg
+Braum,Dragonslayer Braum,201001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_1.jpg
+Braum,El Tigre Braum,201002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_2.jpg
+Braum,Braum Lionheart,201003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_3.jpg
+Braum,Santa Braum,201010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_10.jpg
+Braum,Crime City Braum,201011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_11.jpg
+Braum,Sugar Rush Braum,201024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_24.jpg
+Braum,Pool Party Braum,201033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_33.jpg
+Briar,default,233000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg
+Briar,Street Demons Briar,233001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_1.jpg
+Briar,Primordian Briar,233010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_10.jpg
+Caitlyn,default,51000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg
+Caitlyn,Resistance Caitlyn,51001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_1.jpg
+Caitlyn,Sheriff Caitlyn,51002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_2.jpg
+Caitlyn,Safari Caitlyn,51003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_3.jpg
+Caitlyn,Arctic Warfare Caitlyn,51004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_4.jpg
+Caitlyn,Officer Caitlyn,51005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_5.jpg
+Caitlyn,Headhunter Caitlyn,51006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_6.jpg
+Caitlyn,Lunar Wraith Caitlyn,51010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_10.jpg
+Caitlyn,Pulsefire Caitlyn,51011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_11.jpg
+Caitlyn,Pool Party Caitlyn,51013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_13.jpg
+Caitlyn,Arcade Caitlyn,51019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_19.jpg
+Caitlyn,Prestige Arcade Caitlyn,51020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_20.jpg
+Caitlyn,Battle Academia Caitlyn,51022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_22.jpg
+Caitlyn,Arcane Caitlyn,51028,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_28.jpg
+Caitlyn,Prestige Arcade Caitlyn (2022),51029,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_29.jpg
+Caitlyn,Snow Moon Caitlyn,51030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_30.jpg
+Caitlyn,Heartthrob Caitlyn,51039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_39.jpg
+Caitlyn,DRX Caitlyn,51048,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_48.jpg
+Caitlyn,Arcane Commander Caitlyn,51050,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_50.jpg
+Caitlyn,Prestige Arcane Commander Caitlyn,51051,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_51.jpg
+Camille,default,164000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg
+Camille,Program Camille,164001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_1.jpg
+Camille,Coven Camille,164002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_2.jpg
+Camille,iG Camille,164010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_10.jpg
+Camille,Arcana Camille,164011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_11.jpg
+Camille,Strike Commander Camille,164021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_21.jpg
+Camille,Winterblessed Camille,164031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_31.jpg
+Camille,Prestige Winterblessed Camille,164032,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_32.jpg
+Cassiopeia,default,69000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg
+Cassiopeia,Desperada Cassiopeia,69001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_1.jpg
+Cassiopeia,Siren Cassiopeia,69002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_2.jpg
+Cassiopeia,Mythic Cassiopeia,69003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_3.jpg
+Cassiopeia,Jade Fang Cassiopeia,69004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_4.jpg
+Cassiopeia,Eternum Cassiopeia,69008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_8.jpg
+Cassiopeia,Spirit Blossom Cassiopeia,69009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_9.jpg
+Cassiopeia,Coven Cassiopeia,69018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_18.jpg
+Cassiopeia,Bewitching Cassiopeia,69028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_28.jpg
+Chogath,default,31000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg
+Chogath,Nightmare Cho'Gath,31001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_1.jpg
+Chogath,Gentleman Cho'Gath,31002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_2.jpg
+Chogath,Loch Ness Cho'Gath,31003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_3.jpg
+Chogath,Jurassic Cho'Gath,31004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_4.jpg
+Chogath,Battlecast Prime Cho'Gath,31005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_5.jpg
+Chogath,Prehistoric Cho'Gath,31006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_6.jpg
+Chogath,Dark Star Cho'Gath,31007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_7.jpg
+Chogath,Shan Hai Scrolls Cho'Gath,31014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_14.jpg
+Chogath,Broken Covenant Cho'Gath,31023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_23.jpg
+Chogath,Toy Terror Cho'Gath,31032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_32.jpg
+Corki,default,42000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg
+Corki,UFO Corki,42001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_1.jpg
+Corki,Ice Toboggan Corki,42002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_2.jpg
+Corki,Red Baron Corki,42003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_3.jpg
+Corki,Hot Rod Corki,42004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_4.jpg
+Corki,Urfrider Corki,42005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_5.jpg
+Corki,Dragonwing Corki,42006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_6.jpg
+Corki,Fnatic Corki,42007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_7.jpg
+Corki,Arcade Corki,42008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_8.jpg
+Corki,Corgi Corki,42018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_18.jpg
+Corki,Astronaut Corki,42026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_26.jpg
+Darius,default,122000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg
+Darius,Lord Darius,122001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_1.jpg
+Darius,Bioforge Darius,122002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_2.jpg
+Darius,Woad King Darius,122003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_3.jpg
+Darius,Dunkmaster Darius,122004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_4.jpg
+Darius,Academy Darius,122008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_8.jpg
+Darius,Dreadnova Darius,122014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_14.jpg
+Darius,God-King Darius,122015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_15.jpg
+Darius,High Noon Darius,122016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_16.jpg
+Darius,Lunar Beast Darius,122024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_24.jpg
+Darius,Crime City Nightmare Darius,122033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_33.jpg
+Darius,Spirit Blossom Darius,122043,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_43.jpg
+Darius,Porcelain Darius,122054,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_54.jpg
+Darius,Divine God-King Darius,122064,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_64.jpg
+Diana,default,131000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg
+Diana,Dark Valkyrie Diana,131001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_1.jpg
+Diana,Lunar Goddess Diana,131002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_2.jpg
+Diana,Infernal Diana,131003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_3.jpg
+Diana,Blood Moon Diana,131011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_11.jpg
+Diana,Dark Waters Diana,131012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_12.jpg
+Diana,Dragonslayer Diana,131018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_18.jpg
+Diana,Battle Queen Diana,131025,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_25.jpg
+Diana,Prestige Battle Queen Diana,131026,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_26.jpg
+Diana,Sentinel Diana,131027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_27.jpg
+Diana,Firecracker Diana,131037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_37.jpg
+Diana,Winterblessed Diana,131047,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_47.jpg
+Diana,Heavenscale Diana,131054,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_54.jpg
+Diana,Dark Cosmic Diana,131064,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_64.jpg
+Diana,Prestige Dark Cosmic Diana,131065,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_65.jpg
+Drmundo,No data,No data,No data,No data
+Draven,default,119000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg
+Draven,Soul Reaver Draven,119001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_1.jpg
+Draven,Gladiator Draven,119002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_2.jpg
+Draven,Primetime Draven,119003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_3.jpg
+Draven,Pool Party Draven,119004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_4.jpg
+Draven,Beast Hunter Draven,119005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_5.jpg
+Draven,Draven Draven,119006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_6.jpg
+Draven,Santa Draven,119012,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_12.jpg
+Draven,Mecha Kingdoms Draven,119013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_13.jpg
+Draven,Ruined Draven,119020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_20.jpg
+Draven,Debonair Draven,119029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_29.jpg
+Draven,Fright Night Draven,119039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_39.jpg
+Draven,La Ilusión Draven,119048,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_48.jpg
+Ekko,default,245000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg
+Ekko,Sandstorm Ekko,245001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_1.jpg
+Ekko,Academy Ekko,245002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_2.jpg
+Ekko,PROJECT: Ekko,245003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_3.jpg
+Ekko,SKT T1 Ekko,245011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_11.jpg
+Ekko,Trick or Treat Ekko,245012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_12.jpg
+Ekko,True Damage Ekko,245019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg
+Ekko,Pulsefire Ekko,245028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_28.jpg
+Ekko,Firelight Ekko,245036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_36.jpg
+Ekko,Star Guardian Ekko,245045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_45.jpg
+Ekko,Prestige Star Guardian Ekko,245046,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_46.jpg
+Ekko,Breakout True Damage Ekko,245056,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_56.jpg
+Elise,default,60000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg
+Elise,Death Blossom Elise,60001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_1.jpg
+Elise,Victorious Elise,60002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_2.jpg
+Elise,Blood Moon Elise,60003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_3.jpg
+Elise,SKT T1 Elise,60004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_4.jpg
+Elise,Super Galaxy Elise,60005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_5.jpg
+Elise,Bewitching Elise,60006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_6.jpg
+Elise,Withered Rose Elise,60015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_15.jpg
+Elise,Coven Elise,60024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_24.jpg
+Evelynn,default,28000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg
+Evelynn,Shadow Evelynn,28001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_1.jpg
+Evelynn,Masquerade Evelynn,28002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_2.jpg
+Evelynn,Tango Evelynn,28003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_3.jpg
+Evelynn,Safecracker Evelynn,28004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_4.jpg
+Evelynn,Blood Moon Evelynn,28005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_5.jpg
+Evelynn,K/DA Evelynn,28006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_6.jpg
+Evelynn,Prestige K/DA Evelynn,28007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_7.jpg
+Evelynn,Sugar Rush Evelynn,28008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_8.jpg
+Evelynn,K/DA ALL OUT Evelynn,28015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_15.jpg
+Evelynn,Coven Evelynn,28024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_24.jpg
+Evelynn,Prestige K/DA Evelynn (2022),28031,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_31.jpg
+Evelynn,Spirit Blossom Evelynn,28032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_32.jpg
+Evelynn,Soul Fighter Evelynn,28042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_42.jpg
+Evelynn,High Noon Evelynn,28052,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_52.jpg
+Evelynn,Prestige High Noon Evelynn,28053,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_53.jpg
+Ezreal,default,81000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg
+Ezreal,Nottingham Ezreal,81001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_1.jpg
+Ezreal,Striker Ezreal,81002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_2.jpg
+Ezreal,Frosted Ezreal,81003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_3.jpg
+Ezreal,Explorer Ezreal,81004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_4.jpg
+Ezreal,Pulsefire Ezreal,81005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_5.jpg
+Ezreal,TPA Ezreal,81006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_6.jpg
+Ezreal,Debonair Ezreal,81007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_7.jpg
+Ezreal,Ace of Spades Ezreal,81008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_8.jpg
+Ezreal,Arcade Ezreal,81009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_9.jpg
+Ezreal,Star Guardian Ezreal,81018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_18.jpg
+Ezreal,SSG Ezreal,81019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_19.jpg
+Ezreal,Pajama Guardian Ezreal,81020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_20.jpg
+Ezreal,Battle Academia Ezreal,81021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_21.jpg
+Ezreal,PsyOps Ezreal,81022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_22.jpg
+Ezreal,Prestige PsyOps Ezreal,81023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_23.jpg
+Ezreal,Porcelain Protector Ezreal,81025,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_25.jpg
+Ezreal,Faerie Court Ezreal,81033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_33.jpg
+Ezreal,HEARTSTEEL Ezreal,81043,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_43.jpg
+Ezreal,Heavenscale Ezreal,81044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_44.jpg
+Ezreal,Prestige Heavenscale Ezreal,81054,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_54.jpg
+Fiddlesticks,default,9000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg
+Fiddlesticks,Spectral Fiddlesticks,9001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_1.jpg
+Fiddlesticks,Union Jack Fiddlesticks,9002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_2.jpg
+Fiddlesticks,Bandito Fiddlesticks,9003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_3.jpg
+Fiddlesticks,Pumpkinhead Fiddlesticks,9004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_4.jpg
+Fiddlesticks,Fiddle Me Timbers,9005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_5.jpg
+Fiddlesticks,Surprise Party Fiddlesticks,9006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_6.jpg
+Fiddlesticks,Dark Candy Fiddlesticks,9007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_7.jpg
+Fiddlesticks,Risen Fiddlesticks,9008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_8.jpg
+Fiddlesticks,Praetorian Fiddlesticks,9009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_9.jpg
+Fiddlesticks,Star Nemesis Fiddlesticks,9027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_27.jpg
+Fiddlesticks,Blood Moon Fiddlesticks,9037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_37.jpg
+Fiora,default,114000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg
+Fiora,Royal Guard Fiora,114001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_1.jpg
+Fiora,Nightraven Fiora,114002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_2.jpg
+Fiora,Headmistress Fiora,114003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_3.jpg
+Fiora,PROJECT: Fiora,114004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_4.jpg
+Fiora,Pool Party Fiora,114005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_5.jpg
+Fiora,Soaring Sword Fiora,114022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_22.jpg
+Fiora,Heartpiercer Fiora,114023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_23.jpg
+Fiora,iG Fiora,114031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_31.jpg
+Fiora,Pulsefire Fiora,114041,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_41.jpg
+Fiora,Lunar Beast Fiora,114050,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_50.jpg
+Fiora,Prestige Lunar Beast Fiora,114051,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_51.jpg
+Fiora,Bewitching Fiora,114060,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_60.jpg
+Fiora,Faerie Court Fiora,114069,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_69.jpg
+Fiora,Dragonmancer Fiora,114080,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_80.jpg
+Fiora,Battle Queen Fiora,114089,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_89.jpg
+Fizz,default,105000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg
+Fizz,Atlantean Fizz,105001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_1.jpg
+Fizz,Tundra Fizz,105002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_2.jpg
+Fizz,Fisherman Fizz,105003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_3.jpg
+Fizz,Void Fizz,105004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_4.jpg
+Fizz,Cottontail Fizz,105008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_8.jpg
+Fizz,Super Galaxy Fizz,105009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_9.jpg
+Fizz,Omega Squad Fizz,105010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_10.jpg
+Fizz,Fuzz Fizz,105014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_14.jpg
+Fizz,Prestige Fuzz Fizz,105015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_15.jpg
+Fizz,Little Devil Fizz,105016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_16.jpg
+Fizz,Prestige Fuzz Fizz (2022),105025,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_25.jpg
+Fizz,Astronaut Fizz,105026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_26.jpg
+Fizz,Rain Shepherd Fizz,105035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_35.jpg
+Galio,default,3000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg
+Galio,Enchanted Galio,3001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_1.jpg
+Galio,Hextech Galio,3002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_2.jpg
+Galio,Commando Galio,3003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_3.jpg
+Galio,Gatekeeper Galio,3004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_4.jpg
+Galio,Debonair Galio,3005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_5.jpg
+Galio,Birdio,3006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_6.jpg
+Galio,Infernal Galio,3013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_13.jpg
+Galio,Dragon Guardian Galio,3019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_19.jpg
+Galio,Mythmaker Galio,3028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_28.jpg
+Gangplank,default,41000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg
+Gangplank,Spooky Gangplank,41001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_1.jpg
+Gangplank,Minuteman Gangplank,41002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_2.jpg
+Gangplank,Sailor Gangplank,41003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_3.jpg
+Gangplank,Toy Soldier Gangplank,41004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_4.jpg
+Gangplank,Special Forces Gangplank,41005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_5.jpg
+Gangplank,Sultan Gangplank,41006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_6.jpg
+Gangplank,Captain Gangplank,41007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_7.jpg
+Gangplank,Dreadnova Gangplank,41008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_8.jpg
+Gangplank,Pool Party Gangplank,41014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_14.jpg
+Gangplank,FPX Gangplank,41021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_21.jpg
+Gangplank,Gangplank the Betrayer,41023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_23.jpg
+Gangplank,PROJECT: Gangplank,41033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_33.jpg
+Garen,default,86000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg
+Garen,Sanguine Garen,86001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_1.jpg
+Garen,Desert Trooper Garen,86002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_2.jpg
+Garen,Commando Garen,86003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_3.jpg
+Garen,Dreadknight Garen,86004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_4.jpg
+Garen,Rugged Garen,86005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_5.jpg
+Garen,Steel Legion Garen,86006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_6.jpg
+Garen,Rogue Admiral Garen,86010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_10.jpg
+Garen,Warring Kingdoms Garen,86011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_11.jpg
+Garen,God-King Garen,86013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_13.jpg
+Garen,Demacia Vice Garen,86014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_14.jpg
+Garen,Mecha Kingdoms Garen,86022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_22.jpg
+Garen,Prestige Mecha Kingdoms Garen,86023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_23.jpg
+Garen,Battle Academia Garen,86024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_24.jpg
+Garen,Mythmaker Garen,86033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_33.jpg
+Garen,Fallen God-King Garen,86044,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_44.jpg
+Gnar,default,150000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg
+Gnar,Dino Gnar,150001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_1.jpg
+Gnar,Gentleman Gnar,150002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_2.jpg
+Gnar,Snow Day Gnar,150003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_3.jpg
+Gnar,El León Gnar,150004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_4.jpg
+Gnar,Super Galaxy Gnar,150013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_13.jpg
+Gnar,SSG Gnar,150014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_14.jpg
+Gnar,Astronaut Gnar,150015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_15.jpg
+Gnar,Elderwood Gnar,150022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_22.jpg
+Gnar,La Ilusión Gnar,150031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_31.jpg
+Gragas,default,79000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg
+Gragas,Scuba Gragas,79001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_1.jpg
+Gragas,Hillbilly Gragas,79002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_2.jpg
+Gragas,Santa Gragas,79003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_3.jpg
+Gragas,"Gragas, Esq.",79004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_4.jpg
+Gragas,Vandal Gragas,79005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_5.jpg
+Gragas,Oktoberfest Gragas,79006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_6.jpg
+Gragas,Superfan Gragas,79007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_7.jpg
+Gragas,Fnatic Gragas,79008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_8.jpg
+Gragas,Gragas Caskbreaker,79009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_9.jpg
+Gragas,Arctic Ops Gragas,79010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_10.jpg
+Gragas,Warden Gragas,79011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_11.jpg
+Gragas,Space Groove Gragas,79020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_20.jpg
+Gragas,High Noon Gragas,79029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_29.jpg
+Gragas,Music Fan Gragas,79039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_39.jpg
+Graves,default,104000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg
+Graves,Hired Gun Graves,104001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_1.jpg
+Graves,Jailbreak Graves,104002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_2.jpg
+Graves,Crime City Graves,104003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_3.jpg
+Graves,Riot Graves,104004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_4.jpg
+Graves,Pool Party Graves,104005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_5.jpg
+Graves,Cutthroat Graves,104006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_6.jpg
+Graves,Snow Day Graves,104007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_7.jpg
+Graves,Victorious Graves,104014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_14.jpg
+Graves,Praetorian Graves,104018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg
+Graves,Battle Professor Graves,104025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_25.jpg
+Graves,Sentinel Graves,104035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_35.jpg
+Graves,EDG Graves,104042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_42.jpg
+Graves,Porcelain Graves,104045,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_45.jpg
+Gwen,default,887000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg
+Gwen,Space Groove Gwen,887001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_1.jpg
+Gwen,Cafe Cuties Gwen,887011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_11.jpg
+Gwen,Soul Fighter Gwen,887020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_20.jpg
+Gwen,Battle Queen Gwen,887030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_30.jpg
+Hecarim,default,120000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg
+Hecarim,Blood Knight Hecarim,120001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_1.jpg
+Hecarim,Reaper Hecarim,120002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_2.jpg
+Hecarim,Headless Hecarim,120003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_3.jpg
+Hecarim,Arcade Hecarim,120004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_4.jpg
+Hecarim,Elderwood Hecarim,120005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_5.jpg
+Hecarim,Worldbreaker Hecarim,120006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_6.jpg
+Hecarim,Lancer Zero Hecarim,120007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_7.jpg
+Hecarim,High Noon Hecarim,120008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_8.jpg
+Hecarim,Cosmic Charger Hecarim,120014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_14.jpg
+Hecarim,Arcana Hecarim,120022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_22.jpg
+Hecarim,Winterblessed Hecarim,120031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_31.jpg
+Heimerdinger,default,74000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg
+Heimerdinger,Alien Invader Heimerdinger,74001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_1.jpg
+Heimerdinger,Blast Zone Heimerdinger,74002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_2.jpg
+Heimerdinger,Piltover Customs Heimerdinger,74003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_3.jpg
+Heimerdinger,Snowmerdinger,74004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_4.jpg
+Heimerdinger,Hazmat Heimerdinger,74005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_5.jpg
+Heimerdinger,Dragon Trainer Heimerdinger,74006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_6.jpg
+Heimerdinger,Pool Party Heimerdinger,74015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_15.jpg
+Heimerdinger,Heimerstinger,74024,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_24.jpg
+Hwei,default,910000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg
+Hwei,Winterblessed Hwei,910001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_1.jpg
+Illaoi,default,420000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg
+Illaoi,Void Bringer Illaoi,420001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_1.jpg
+Illaoi,Resistance Illaoi,420002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_2.jpg
+Illaoi,Cosmic Invoker Illaoi,420010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_10.jpg
+Illaoi,Snow Moon Illaoi,420018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_18.jpg
+Illaoi,Battle Bear Illaoi,420027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_27.jpg
+Irelia,default,39000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg
+Irelia,Nightblade Irelia,39001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_1.jpg
+Irelia,Aviator Irelia,39002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_2.jpg
+Irelia,Infiltrator Irelia,39003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_3.jpg
+Irelia,Frostblade Irelia,39004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_4.jpg
+Irelia,Order of the Lotus Irelia,39005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_5.jpg
+Irelia,Divine Sword Irelia,39006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_6.jpg
+Irelia,iG Irelia,39015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_15.jpg
+Irelia,PROJECT: Irelia,39016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_16.jpg
+Irelia,Prestige PROJECT: Irelia,39017,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_17.jpg
+Irelia,High Noon Irelia,39018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_18.jpg
+Irelia,Sentinel Irelia,39026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_26.jpg
+Irelia,Prestige PROJECT: Irelia (2022),39036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_36.jpg
+Irelia,Mythmaker Irelia,39037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_37.jpg
+Irelia,Porcelain Irelia,39045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_45.jpg
+Ivern,default,427000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg
+Ivern,Candy King Ivern,427001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_1.jpg
+Ivern,Dunkmaster Ivern,427002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_2.jpg
+Ivern,Old God Ivern,427011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_11.jpg
+Ivern,Astronaut Ivern,427020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_20.jpg
+Janna,default,40000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg
+Janna,Tempest Janna,40001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_1.jpg
+Janna,Hextech Janna,40002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_2.jpg
+Janna,Frost Queen Janna,40003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_3.jpg
+Janna,Victorious Janna,40004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_4.jpg
+Janna,Forecast Janna,40005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_5.jpg
+Janna,Fnatic Janna,40006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_6.jpg
+Janna,Star Guardian Janna,40007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_7.jpg
+Janna,Sacred Sword Janna,40008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_8.jpg
+Janna,Bewitching Janna,40013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_13.jpg
+Janna,Guardian of the Sands Janna,40020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_20.jpg
+Janna,Battle Queen Janna,40027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_27.jpg
+Janna,Crystal Rose Janna,40036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_36.jpg
+Janna,Cyber Halo Janna,40045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_45.jpg
+Janna,Prestige Cyber Halo Janna,40046,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_46.jpg
+Janna,Heavenscale Janna,40056,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_56.jpg
+Jarvaniv,No data,No data,No data,No data
+Jax,default,24000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg
+Jax,The Mighty Jax,24001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_1.jpg
+Jax,Vandal Jax,24002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_2.jpg
+Jax,Angler Jax,24003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_3.jpg
+Jax,PAX Jax,24004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_4.jpg
+Jax,Jaximus,24005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_5.jpg
+Jax,Temple Jax,24006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_6.jpg
+Jax,Nemesis Jax,24007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_7.jpg
+Jax,SKT T1 Jax,24008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_8.jpg
+Jax,Warden Jax,24012,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_12.jpg
+Jax,God Staff Jax,24013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_13.jpg
+Jax,Mecha Kingdoms Jax,24014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_14.jpg
+Jax,Conqueror Jax,24020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_20.jpg
+Jax,Prestige Conqueror Jax,24021,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_21.jpg
+Jax,Empyrean Jax,24022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_22.jpg
+Jax,Neo PAX Jax,24032,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_32.jpg
+Jax,PROJECT: Jax,24033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_33.jpg
+Jayce,default,126000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg
+Jayce,Full Metal Jayce,126001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_1.jpg
+Jayce,Debonair Jayce,126002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_2.jpg
+Jayce,Forsaken Jayce,126003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_3.jpg
+Jayce,Jayce Brighthammer,126004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_4.jpg
+Jayce,Battle Academia Jayce,126005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_5.jpg
+Jayce,Resistance Jayce,126015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_15.jpg
+Jayce,Arcane Jayce,126024,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_24.jpg
+Jayce,Zenith Games Jayce,126025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_25.jpg
+Jayce,T1 Jayce,126034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_34.jpg
+Jayce,Arcane Survivor Jayce,126035,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_35.jpg
+Jayce,Prestige T1 Jayce,126036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_36.jpg
+Jhin,default,202000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg
+Jhin,High Noon Jhin,202001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_1.jpg
+Jhin,Blood Moon Jhin,202002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_2.jpg
+Jhin,SKT T1 Jhin,202003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_3.jpg
+Jhin,PROJECT: Jhin,202004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_4.jpg
+Jhin,Dark Cosmic Jhin,202005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_5.jpg
+Jhin,Shan Hai Scrolls Jhin,202014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_14.jpg
+Jhin,DWG Jhin,202023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_23.jpg
+Jhin,Empyrean Jhin,202025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_25.jpg
+Jhin,Soul Fighter Jhin,202036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_36.jpg
+Jhin,Dark Cosmic Erasure Jhin,202037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_37.jpg
+Jinx,default,222000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg
+Jinx,Crime City Jinx,222001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_1.jpg
+Jinx,Firecracker Jinx,222002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_2.jpg
+Jinx,Zombie Slayer Jinx,222003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_3.jpg
+Jinx,Star Guardian Jinx,222004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_4.jpg
+Jinx,Ambitious Elf Jinx,222012,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_12.jpg
+Jinx,Odyssey Jinx,222013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_13.jpg
+Jinx,PROJECT: Jinx,222020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_20.jpg
+Jinx,Heartseeker Jinx,222029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_29.jpg
+Jinx,Arcane Jinx,222037,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_37.jpg
+Jinx,Battle Cat Jinx,222038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_38.jpg
+Jinx,Prestige Battle Cat Jinx,222040,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_40.jpg
+Jinx,Cafe Cuties Jinx,222051,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_51.jpg
+Jinx,T1 Jinx,222062,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_62.jpg
+Kaisa,default,145000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg
+Kaisa,Bullet Angel Kai'Sa,145001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_1.jpg
+Kaisa,K/DA Kai'Sa,145014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_14.jpg
+Kaisa,Prestige K/DA Kai'Sa,145015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_15.jpg
+Kaisa,iG Kai'Sa,145016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_16.jpg
+Kaisa,Arcade Kai'Sa,145017,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_17.jpg
+Kaisa,K/DA ALL OUT Kai'Sa,145026,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_26.jpg
+Kaisa,Prestige K/DA ALL OUT Kai'Sa,145027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_27.jpg
+Kaisa,Lagoon Dragon Kai'Sa,145029,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_29.jpg
+Kaisa,Prestige K/DA Kai'Sa (2022),145039,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_39.jpg
+Kaisa,Star Guardian Kai'Sa,145040,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_40.jpg
+Kaisa,Inkshadow Kai'Sa,145048,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_48.jpg
+Kaisa,Heavenscale Kai'Sa,145059,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_59.jpg
+Kaisa,Dark Star Kai'Sa,145069,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_69.jpg
+Kalista,default,429000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg
+Kalista,Blood Moon Kalista,429001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_1.jpg
+Kalista,Worlds 2015 Kalista,429002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_2.jpg
+Kalista,SKT T1 Kalista,429003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_3.jpg
+Kalista,Marauder Kalista,429005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_5.jpg
+Kalista,Faerie Court Kalista,429014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_14.jpg
+Karma,default,43000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg
+Karma,Sun Goddess Karma,43001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_1.jpg
+Karma,Sakura Karma,43002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_2.jpg
+Karma,Traditional Karma,43003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_3.jpg
+Karma,Order of the Lotus Karma,43004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_4.jpg
+Karma,Warden Karma,43005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_5.jpg
+Karma,Winter Wonder Karma,43006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_6.jpg
+Karma,Conqueror Karma,43007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_7.jpg
+Karma,Dark Star Karma,43008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_8.jpg
+Karma,Dawnbringer Karma,43019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_19.jpg
+Karma,Odyssey Karma,43026,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_26.jpg
+Karma,Ruined Karma,43027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_27.jpg
+Karma,Tranquility Dragon Karma,43044,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_44.jpg
+Karma,Faerie Queen Karma,43054,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_54.jpg
+Karma,Infernal Karma,43061,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_61.jpg
+Karthus,default,30000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg
+Karthus,Phantom Karthus,30001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_1.jpg
+Karthus,Statue of Karthus,30002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_2.jpg
+Karthus,Grim Reaper Karthus,30003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_3.jpg
+Karthus,Pentakill Karthus,30004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_4.jpg
+Karthus,Fnatic Karthus,30005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_5.jpg
+Karthus,Karthus Lightsbane,30009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_9.jpg
+Karthus,Infernal Karthus,30010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_10.jpg
+Karthus,Pentakill III: Lost Chapter Karthus,30017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_17.jpg
+Karthus,Elderwood Karthus,30026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_26.jpg
+Kassadin,default,38000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg
+Kassadin,Festival Kassadin,38001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_1.jpg
+Kassadin,Deep One Kassadin,38002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_2.jpg
+Kassadin,Pre-Void Kassadin,38003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_3.jpg
+Kassadin,Harbinger Kassadin,38004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_4.jpg
+Kassadin,Cosmic Reaver Kassadin,38005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_5.jpg
+Kassadin,Count Kassadin,38006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_6.jpg
+Kassadin,Hextech Kassadin,38014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_14.jpg
+Kassadin,Shockblade Kassadin,38015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_15.jpg
+Kassadin,Dragonmancer Kassadin,38024,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_24.jpg
+Katarina,default,55000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg
+Katarina,Mercenary Katarina,55001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_1.jpg
+Katarina,Red Card Katarina,55002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_2.jpg
+Katarina,Bilgewater Katarina,55003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_3.jpg
+Katarina,Kitty Cat Katarina,55004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_4.jpg
+Katarina,High Command Katarina,55005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_5.jpg
+Katarina,Sandstorm Katarina,55006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_6.jpg
+Katarina,Slay Belle Katarina,55007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_7.jpg
+Katarina,Warring Kingdoms Katarina,55008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_8.jpg
+Katarina,PROJECT: Katarina,55009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_9.jpg
+Katarina,Death Sworn Katarina,55010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_10.jpg
+Katarina,Battle Academia Katarina,55012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_12.jpg
+Katarina,Blood Moon Katarina,55021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_21.jpg
+Katarina,Battle Queen Katarina,55029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_29.jpg
+Katarina,High Noon Katarina,55037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_37.jpg
+Katarina,Faerie Court Katarina,55047,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_47.jpg
+Katarina,Prestige Faerie Court Katarina,55048,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_48.jpg
+Katarina,Chosen of the Wolf Katarina,55059,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_59.jpg
+Kayle,default,10000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg
+Kayle,Silver Kayle,10001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_1.jpg
+Kayle,Viridian Kayle,10002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_2.jpg
+Kayle,Transcended Kayle,10003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg
+Kayle,Battleborn Kayle,10004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_4.jpg
+Kayle,Judgment Kayle,10005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_5.jpg
+Kayle,Aether Wing Kayle,10006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_6.jpg
+Kayle,Riot Kayle,10007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_7.jpg
+Kayle,Iron Inquisitor Kayle,10008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_8.jpg
+Kayle,Pentakill Kayle,10009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_9.jpg
+Kayle,PsyOps Kayle,10015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_15.jpg
+Kayle,Dragonslayer Kayle,10024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_24.jpg
+Kayle,Pentakill III: Lost Chapter Kayle,10033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_33.jpg
+Kayle,Sun-Eater Kayle,10042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_42.jpg
+Kayle,Immortal Journey Kayle,10057,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_57.jpg
+Kayle,Empyrean Kayle,10066,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_66.jpg
+Kayle,Prestige Empyrean Kayle,10067,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_67.jpg
+Kayn,default,141000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg
+Kayn,Soulhunter Kayn,141001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_1.jpg
+Kayn,Odyssey Kayn,141002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_2.jpg
+Kayn,Nightbringer Kayn,141008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_8.jpg
+Kayn,Prestige Nightbringer Kayn,141009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_9.jpg
+Kayn,Snow Moon Kayn,141015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_15.jpg
+Kayn,HEARTSTEEL Kayn,141020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_20.jpg
+Kennen,default,85000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg
+Kennen,Deadly Kennen,85001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_1.jpg
+Kennen,Swamp Master Kennen,85002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_2.jpg
+Kennen,Karate Kennen,85003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_3.jpg
+Kennen,Kennen M.D.,85004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_4.jpg
+Kennen,Arctic Ops Kennen,85005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_5.jpg
+Kennen,Blood Moon Kennen,85006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_6.jpg
+Kennen,Super Kennen,85007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_7.jpg
+Kennen,Infernal Kennen,85008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_8.jpg
+Kennen,DWG Kennen,85023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_23.jpg
+Kennen,Astronaut Kennen,85025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_25.jpg
+Khazix,default,121000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg
+Khazix,Mecha Kha'Zix,121001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_1.jpg
+Khazix,Guardian of the Sands Kha'Zix,121002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_2.jpg
+Khazix,Death Blossom Kha'Zix,121003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_3.jpg
+Khazix,Dark Star Kha'Zix,121004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_4.jpg
+Khazix,Worlds 2018 Kha'Zix,121011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_11.jpg
+Khazix,Odyssey Kha'Zix,121060,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_60.jpg
+Khazix,Lunar Guardian Kha'Zix,121069,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_69.jpg
+Khazix,Crystalis Indomitus Kha'Zix,121079,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_79.jpg
+Kindred,default,203000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg
+Kindred,Shadowfire Kindred,203001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_1.jpg
+Kindred,Super Galaxy Kindred,203002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_2.jpg
+Kindred,Spirit Blossom Kindred,203003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_3.jpg
+Kindred,Porcelain Kindred,203012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_12.jpg
+Kindred,Woof and Lamb Kindred,203022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_22.jpg
+Kindred,DRX Kindred,203023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_23.jpg
+Kindred,Prestige Porcelain Kindred,203033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_33.jpg
+Kindred,Chosen of the Wolf Kindred,203034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_34.jpg
+Kled,default,240000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg
+Kled,Sir Kled,240001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_1.jpg
+Kled,Count Kledula,240002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_2.jpg
+Kled,Marauder Kled,240009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_9.jpg
+Kled,Kibble-Head Kled,240018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_18.jpg
+Kogmaw,No data,No data,No data,No data
+Ksante,No data,No data,No data,No data
+Leblanc,default,7000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg
+Leblanc,Wicked LeBlanc,7001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_1.jpg
+Leblanc,Prestigious LeBlanc,7002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_2.jpg
+Leblanc,Mistletoe LeBlanc,7003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_3.jpg
+Leblanc,Ravenborn LeBlanc,7004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_4.jpg
+Leblanc,Elderwood LeBlanc,7005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_5.jpg
+Leblanc,Program LeBlanc,7012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_12.jpg
+Leblanc,iG LeBlanc,7019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_19.jpg
+Leblanc,Coven LeBlanc,7020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_20.jpg
+Leblanc,Worlds 2020 LeBlanc,7029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_29.jpg
+Leblanc,Prestige Coven LeBlanc,7033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_33.jpg
+Leblanc,Debonair LeBlanc,7035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_35.jpg
+Leblanc,Bewitching LeBlanc,7045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_45.jpg
+Leblanc,Risen Legend LeBlanc,7055,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_55.jpg
+Leesin,No data,No data,No data,No data
+Leona,default,89000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg
+Leona,Valkyrie Leona,89001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_1.jpg
+Leona,Defender Leona,89002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_2.jpg
+Leona,Iron Solari Leona,89003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_3.jpg
+Leona,Pool Party Leona,89004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_4.jpg
+Leona,PROJECT: Leona,89008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_8.jpg
+Leona,Barbecue Leona,89009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_9.jpg
+Leona,Solar Eclipse Leona,89010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_10.jpg
+Leona,Lunar Eclipse Leona,89011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_11.jpg
+Leona,Mecha Kingdoms Leona,89012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_12.jpg
+Leona,Battle Academia Leona,89021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_21.jpg
+Leona,DWG Leona,89022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_22.jpg
+Leona,Prestige Battle Academia Leona,89023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_23.jpg
+Leona,Debonair Leona,89033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_33.jpg
+Leona,High Noon Leona,89034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_34.jpg
+Leona,Crystalis Motus Leona,89050,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_50.jpg
+Leona,Battle Lion Leona,89052,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_52.jpg
+Leona,Prestige Battle Lion Leona,89053,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_53.jpg
+Lillia,default,876000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg
+Lillia,Spirit Blossom Lillia,876001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_1.jpg
+Lillia,Nightbringer Lillia,876010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_10.jpg
+Lillia,Shan Hai Scrolls Lillia,876019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_19.jpg
+Lillia,Faerie Court Lillia,876028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_28.jpg
+Lissandra,default,127000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg
+Lissandra,Bloodstone Lissandra,127001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_1.jpg
+Lissandra,Blade Queen Lissandra,127002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_2.jpg
+Lissandra,Program Lissandra,127003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_3.jpg
+Lissandra,Coven Lissandra,127004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_4.jpg
+Lissandra,Dark Cosmic Lissandra,127012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_12.jpg
+Lissandra,Porcelain Lissandra,127023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_23.jpg
+Lissandra,Prestige Porcelain Lissandra,127033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_33.jpg
+Lissandra,Space Groove Lissandra,127034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_34.jpg
+Lucian,default,236000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg
+Lucian,Hired Gun Lucian,236001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_1.jpg
+Lucian,Striker Lucian,236002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_2.jpg
+Lucian,PROJECT: Lucian,236006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_6.jpg
+Lucian,Heartseeker Lucian,236007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_7.jpg
+Lucian,High Noon Lucian,236008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_8.jpg
+Lucian,Demacia Vice Lucian,236009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_9.jpg
+Lucian,Pulsefire Lucian,236018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_18.jpg
+Lucian,Prestige Pulsefire Lucian,236019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_19.jpg
+Lucian,Victorious Lucian,236025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_25.jpg
+Lucian,Arcana Lucian,236031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_31.jpg
+Lucian,Strike Paladin Lucian,236040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_40.jpg
+Lucian,Winterblessed Lucian,236052,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_52.jpg
+Lulu,default,117000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg
+Lulu,Bittersweet Lulu,117001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_1.jpg
+Lulu,Wicked Lulu,117002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_2.jpg
+Lulu,Dragon Trainer Lulu,117003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_3.jpg
+Lulu,Winter Wonder Lulu,117004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_4.jpg
+Lulu,Pool Party Lulu,117005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_5.jpg
+Lulu,Star Guardian Lulu,117006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_6.jpg
+Lulu,Cosmic Enchantress Lulu,117014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_14.jpg
+Lulu,Pajama Guardian Lulu,117015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_15.jpg
+Lulu,Space Groove Lulu,117026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_26.jpg
+Lulu,Prestige Space Groove Lulu,117027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_27.jpg
+Lulu,Monster Tamer Lulu,117037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_37.jpg
+Lulu,Cafe Cuties Lulu,117046,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_46.jpg
+Lux,default,99000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg
+Lux,Sorceress Lux,99001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_1.jpg
+Lux,Spellthief Lux,99002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_2.jpg
+Lux,Commando Lux,99003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_3.jpg
+Lux,Imperial Lux,99004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_4.jpg
+Lux,Steel Legion Lux,99005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_5.jpg
+Lux,Star Guardian Lux,99006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_6.jpg
+Lux,Elementalist Lux,99007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_7.jpg
+Lux,Lunar Empress Lux,99008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_8.jpg
+Lux,Pajama Guardian Lux,99014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_14.jpg
+Lux,Battle Academia Lux,99015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_15.jpg
+Lux,Prestige Battle Academia Lux,99016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_16.jpg
+Lux,Dark Cosmic Lux,99017,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_17.jpg
+Lux,Cosmic Lux,99018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_18.jpg
+Lux,Space Groove Lux,99019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_19.jpg
+Lux,Porcelain Lux,99029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_29.jpg
+Lux,Soul Fighter Lux,99038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_38.jpg
+Lux,Prestige Battle Academia Lux (2022),99039,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_39.jpg
+Lux,Prestige Porcelain Lux,99040,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_40.jpg
+Lux,Empyrean Lux,99042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_42.jpg
+Lux,Faerie Court Lux,99061,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_61.jpg
+Malphite,default,54000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg
+Malphite,Shamrock Malphite,54001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_1.jpg
+Malphite,Coral Reef Malphite,54002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_2.jpg
+Malphite,Marble Malphite,54003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_3.jpg
+Malphite,Obsidian Malphite,54004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_4.jpg
+Malphite,Glacial Malphite,54005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_5.jpg
+Malphite,Mecha Malphite,54006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_6.jpg
+Malphite,Ironside Malphite,54007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_7.jpg
+Malphite,Odyssey Malphite,54016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_16.jpg
+Malphite,Dark Star Malphite,54023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_23.jpg
+Malphite,Prestige Dark Star Malphite,54024,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_24.jpg
+Malphite,FPX Malphite,54025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_25.jpg
+Malphite,Old God Malphite,54027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_27.jpg
+Malphite,Lunar Guardian Malphite,54037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_37.jpg
+Malzahar,default,90000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg
+Malzahar,Vizier Malzahar,90001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_1.jpg
+Malzahar,Shadow Prince Malzahar,90002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_2.jpg
+Malzahar,Djinn Malzahar,90003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_3.jpg
+Malzahar,Overlord Malzahar,90004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_4.jpg
+Malzahar,Snow Day Malzahar,90005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_5.jpg
+Malzahar,Battle Boss Malzahar,90006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_6.jpg
+Malzahar,Hextech Malzahar,90007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_7.jpg
+Malzahar,Worldbreaker Malzahar,90009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_9.jpg
+Malzahar,Beezahar,90018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_18.jpg
+Malzahar,Debonair Malzahar,90028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_28.jpg
+Malzahar,Three Honors Malzahar,90038,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_38.jpg
+Malzahar,Empyrean Malzahar,90039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_39.jpg
+Maokai,default,57000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg
+Maokai,Charred Maokai,57001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_1.jpg
+Maokai,Totemic Maokai,57002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_2.jpg
+Maokai,Festive Maokai,57003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_3.jpg
+Maokai,Haunted Maokai,57004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_4.jpg
+Maokai,Goalkeeper Maokai,57005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_5.jpg
+Maokai,Meowkai,57006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_6.jpg
+Maokai,Victorious Maokai,57007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_7.jpg
+Maokai,Worldbreaker Maokai,57016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_16.jpg
+Maokai,Astronaut Maokai,57024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_24.jpg
+Maokai,DRX Maokai,57033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_33.jpg
+Masteryi,No data,No data,No data,No data
+Milio,default,902000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg
+Milio,Faerie Court Milio,902001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_1.jpg
+Milio,Rain Shepherd Milio,902011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_11.jpg
+Missfortune,No data,No data,No data,No data
+Mordekaiser,default,82000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg
+Mordekaiser,Dragon Knight Mordekaiser,82001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_1.jpg
+Mordekaiser,Infernal Mordekaiser,82002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_2.jpg
+Mordekaiser,Pentakill Mordekaiser,82003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_3.jpg
+Mordekaiser,Lord Mordekaiser,82004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_4.jpg
+Mordekaiser,King of Clubs Mordekaiser,82005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_5.jpg
+Mordekaiser,Dark Star Mordekaiser,82006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_6.jpg
+Mordekaiser,PROJECT: Mordekaiser,82013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_13.jpg
+Mordekaiser,Pentakill III: Lost Chapter Mordekaiser,82023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_23.jpg
+Mordekaiser,High Noon Mordekaiser,82032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_32.jpg
+Mordekaiser,Ashen Graveknight Mordekaiser,82042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_42.jpg
+Mordekaiser,Old God Mordekaiser,82044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_44.jpg
+Morgana,default,25000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg
+Morgana,Exiled Morgana,25001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_1.jpg
+Morgana,Sinful Succulence Morgana,25002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_2.jpg
+Morgana,Blade Mistress Morgana,25003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_3.jpg
+Morgana,Blackthorn Morgana,25004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_4.jpg
+Morgana,Ghost Bride Morgana,25005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_5.jpg
+Morgana,Victorious Morgana,25006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_6.jpg
+Morgana,Lunar Wraith Morgana,25010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_10.jpg
+Morgana,Bewitching Morgana,25011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_11.jpg
+Morgana,Majestic Empress Morgana,25017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_17.jpg
+Morgana,Coven Morgana,25026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_26.jpg
+Morgana,Dawnbringer Morgana,25039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_39.jpg
+Morgana,Prestige Bewitching Morgana,25041,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_41.jpg
+Morgana,Star Nemesis Morgana,25050,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_50.jpg
+Morgana,Snow Moon Morgana,25060,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_60.jpg
+Morgana,Porcelain Morgana,25070,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_70.jpg
+Naafiri,default,950000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg
+Naafiri,Soul Fighter Naafiri,950001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_1.jpg
+Naafiri,PROJECT: Naafiri,950011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_11.jpg
+Nami,default,267000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg
+Nami,Koi Nami,267001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_1.jpg
+Nami,River Spirit Nami,267002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_2.jpg
+Nami,Urf the Nami-tee,267003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_3.jpg
+Nami,Deep Sea Nami,267007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_7.jpg
+Nami,SKT T1 Nami,267008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_8.jpg
+Nami,Program Nami,267009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_9.jpg
+Nami,Splendid Staff Nami,267015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_15.jpg
+Nami,Cosmic Destiny Nami,267024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_24.jpg
+Nami,Bewitching Nami,267032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_32.jpg
+Nami,Space Groove Nami,267041,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_41.jpg
+Nami,Prestige Space Groove Nami,267042,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_42.jpg
+Nami,Coven Nami,267051,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_51.jpg
+Nasus,default,75000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg
+Nasus,Galactic Nasus,75001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_1.jpg
+Nasus,Pharaoh Nasus,75002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_2.jpg
+Nasus,Dreadknight Nasus,75003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_3.jpg
+Nasus,Riot K-9 Nasus,75004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_4.jpg
+Nasus,Infernal Nasus,75005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_5.jpg
+Nasus,Archduke Nasus,75006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_6.jpg
+Nasus,Worldbreaker Nasus,75010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_10.jpg
+Nasus,Lunar Guardian Nasus,75011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_11.jpg
+Nasus,Battlecast Nasus,75016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_16.jpg
+Nasus,Space Groove Nasus,75025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_25.jpg
+Nasus,Armored Titan Nasus,75035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_35.jpg
+Nasus,Nightbringer Nasus,75045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_45.jpg
+Nautilus,default,111000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg
+Nautilus,Abyssal Nautilus,111001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_1.jpg
+Nautilus,Subterranean Nautilus,111002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_2.jpg
+Nautilus,AstroNautilus,111003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_3.jpg
+Nautilus,Warden Nautilus,111004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_4.jpg
+Nautilus,Worldbreaker Nautilus,111005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_5.jpg
+Nautilus,Conqueror Nautilus,111006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_6.jpg
+Nautilus,Shan Hai Scrolls Nautilus,111009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_9.jpg
+Nautilus,Fright Night Nautilus,111018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_18.jpg
+Nautilus,Cosmic Paladin Nautilus,111027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_27.jpg
+Nautilus,Crystalis Indomitus Nautilus,111036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_36.jpg
+Neeko,default,518000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg
+Neeko,Winter Wonder Neeko,518001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_1.jpg
+Neeko,Star Guardian Neeko,518010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_10.jpg
+Neeko,Prestige Star Guardian Neeko,518011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_11.jpg
+Neeko,Shan Hai Scrolls Neeko,518012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_12.jpg
+Neeko,Prestige Star Guardian Neeko (2022),518021,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_21.jpg
+Neeko,Bewitching Neeko,518022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_22.jpg
+Neeko,Street Demons Neeko,518031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_31.jpg
+Neeko,Cosplayer Neeko,518040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_40.jpg
+Nidalee,default,76000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg
+Nidalee,Snow Bunny Nidalee,76001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_1.jpg
+Nidalee,Leopard Nidalee,76002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_2.jpg
+Nidalee,French Maid Nidalee,76003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_3.jpg
+Nidalee,Pharaoh Nidalee,76004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_4.jpg
+Nidalee,Bewitching Nidalee,76005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_5.jpg
+Nidalee,Headhunter Nidalee,76006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_6.jpg
+Nidalee,Warring Kingdoms Nidalee,76007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_7.jpg
+Nidalee,Challenger Nidalee,76008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_8.jpg
+Nidalee,Super Galaxy Nidalee,76009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_9.jpg
+Nidalee,Dawnbringer Nidalee,76011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_11.jpg
+Nidalee,Cosmic Huntress Nidalee,76018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_18.jpg
+Nidalee,DWG Nidalee,76027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_27.jpg
+Nidalee,Ocean Song Nidalee,76029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_29.jpg
+Nidalee,Kittalee,76039,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_39.jpg
+Nidalee,La Ilusión Nidalee,76048,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_48.jpg
+Nilah,default,895000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg
+Nilah,Star Guardian Nilah,895001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_1.jpg
+Nilah,Coven Nilah,895011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_11.jpg
+Nocturne,default,56000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg
+Nocturne,Frozen Terror Nocturne,56001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_1.jpg
+Nocturne,Void Nocturne,56002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_2.jpg
+Nocturne,Ravager Nocturne,56003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_3.jpg
+Nocturne,Haunting Nocturne,56004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_4.jpg
+Nocturne,Eternum Nocturne,56005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_5.jpg
+Nocturne,Cursed Revenant Nocturne,56006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_6.jpg
+Nocturne,Old God Nocturne,56007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_7.jpg
+Nocturne,Hextech Nocturne,56016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_16.jpg
+Nocturne,Broken Covenant Nocturne,56017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_17.jpg
+Nocturne,Empyrean Nocturne,56026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_26.jpg
+Nunu&willump,No data,No data,No data,No data
+Olaf,default,2000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg
+Olaf,Forsaken Olaf,2001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_1.jpg
+Olaf,Glacial Olaf,2002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_2.jpg
+Olaf,Brolaf,2003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_3.jpg
+Olaf,Pentakill Olaf,2004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_4.jpg
+Olaf,Marauder Olaf,2005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_5.jpg
+Olaf,Butcher Olaf,2006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_6.jpg
+Olaf,SKT T1 Olaf,2015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_15.jpg
+Olaf,Dragonslayer Olaf,2016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_16.jpg
+Olaf,Sentinel Olaf,2025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_25.jpg
+Olaf,Pentakill III: Lost Chapter Olaf,2035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_35.jpg
+Olaf,Infernal Olaf,2044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_44.jpg
+Orianna,default,61000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg
+Orianna,Gothic Orianna,61001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_1.jpg
+Orianna,Sewn Chaos Orianna,61002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_2.jpg
+Orianna,Bladecraft Orianna,61003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_3.jpg
+Orianna,TPA Orianna,61004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_4.jpg
+Orianna,Winter Wonder Orianna,61005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_5.jpg
+Orianna,Heartseeker Orianna,61006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_6.jpg
+Orianna,Dark Star Orianna,61007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_7.jpg
+Orianna,Victorious Orianna,61008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_8.jpg
+Orianna,Pool Party Orianna,61011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_11.jpg
+Orianna,Orbeeanna,61020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_20.jpg
+Orianna,Star Guardian Orianna,61029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_29.jpg
+Orianna,T1 Orianna,61038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_38.jpg
+Ornn,default,516000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg
+Ornn,Thunder Lord Ornn,516001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_1.jpg
+Ornn,Elderwood Ornn,516002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_2.jpg
+Ornn,Space Groove Ornn,516011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_11.jpg
+Ornn,Choo-Choo Ornn,516020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_20.jpg
+Pantheon,default,80000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg
+Pantheon,Myrmidon Pantheon,80001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_1.jpg
+Pantheon,Ruthless Pantheon,80002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_2.jpg
+Pantheon,Perseus Pantheon,80003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_3.jpg
+Pantheon,Full Metal Pantheon,80004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_4.jpg
+Pantheon,Glaive Warrior Pantheon,80005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_5.jpg
+Pantheon,Dragonslayer Pantheon,80006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_6.jpg
+Pantheon,Zombie Slayer Pantheon,80007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_7.jpg
+Pantheon,Baker Pantheon,80008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_8.jpg
+Pantheon,Pulsefire Pantheon,80016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_16.jpg
+Pantheon,Ruined Pantheon,80025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_25.jpg
+Pantheon,Prestige Ascended Pantheon,80026,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_26.jpg
+Pantheon,Ashen Conqueror Pantheon,80036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_36.jpg
+Pantheon,Chosen of the Wolf Pantheon,80038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_38.jpg
+Poppy,default,78000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg
+Poppy,Noxus Poppy,78001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_1.jpg
+Poppy,Lollipoppy,78002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_2.jpg
+Poppy,Blacksmith Poppy,78003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_3.jpg
+Poppy,Ragdoll Poppy,78004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_4.jpg
+Poppy,Battle Regalia Poppy,78005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_5.jpg
+Poppy,Scarlet Hammer Poppy,78006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_6.jpg
+Poppy,Star Guardian Poppy,78007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_7.jpg
+Poppy,Snow Fawn Poppy,78014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_14.jpg
+Poppy,Hextech Poppy,78015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_15.jpg
+Poppy,Astronaut Poppy,78016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_16.jpg
+Poppy,Bewitching Poppy,78024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_24.jpg
+Poppy,Cafe Cuties Poppy,78033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_33.jpg
+Pyke,default,555000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg
+Pyke,Sand Wraith Pyke,555001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_1.jpg
+Pyke,Blood Moon Pyke,555009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg
+Pyke,PROJECT: Pyke,555016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_16.jpg
+Pyke,PsyOps Pyke,555025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_25.jpg
+Pyke,Sentinel Pyke,555034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_34.jpg
+Pyke,Ashen Knight Pyke,555044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_44.jpg
+Pyke,Empyrean Pyke,555045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_45.jpg
+Pyke,Soul Fighter Pyke,555053,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_53.jpg
+Pyke,Prestige Soul Fighter Pyke,555054,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_54.jpg
+Pyke,Fright Night Pyke,555064,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_64.jpg
+Qiyana,default,246000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg
+Qiyana,Battle Boss Qiyana,246001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_1.jpg
+Qiyana,True Damage Qiyana,246002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_2.jpg
+Qiyana,Prestige True Damage Qiyana,246010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_10.jpg
+Qiyana,Battle Queen Qiyana,246011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_11.jpg
+Qiyana,Shockblade Qiyana,246020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_20.jpg
+Qiyana,Prestige True Damage Qiyana (2022),246021,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_21.jpg
+Qiyana,Lunar Empress Qiyana,246030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_30.jpg
+Qiyana,La Ilusión Qiyana,246040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_40.jpg
+Quinn,default,133000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg
+Quinn,Phoenix Quinn,133001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_1.jpg
+Quinn,Woad Scout Quinn,133002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_2.jpg
+Quinn,Corsair Quinn,133003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_3.jpg
+Quinn,Heartseeker Quinn,133004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_4.jpg
+Quinn,Warden Quinn,133005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_5.jpg
+Quinn,Star Guardian Quinn,133014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_14.jpg
+Rakan,default,497000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg
+Rakan,Cosmic Dawn Rakan,497001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_1.jpg
+Rakan,Sweetheart Rakan,497002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_2.jpg
+Rakan,SSG Rakan,497003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_3.jpg
+Rakan,iG Rakan,497004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_4.jpg
+Rakan,Star Guardian Rakan,497005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_5.jpg
+Rakan,Elderwood Rakan,497009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_9.jpg
+Rakan,Arcana Rakan,497018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_18.jpg
+Rakan,Broken Covenant Rakan,497027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_27.jpg
+Rakan,Redeemed Star Guardian Rakan,497036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_36.jpg
+Rakan,Dragonmancer Rakan,497037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_37.jpg
+Rakan,Prestige Dragonmancer Rakan,497038,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_38.jpg
+Rammus,default,33000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg
+Rammus,King Rammus,33001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_1.jpg
+Rammus,Chrome Rammus,33002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_2.jpg
+Rammus,Molten Rammus,33003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_3.jpg
+Rammus,Freljord Rammus,33004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_4.jpg
+Rammus,Ninja Rammus,33005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_5.jpg
+Rammus,Full Metal Rammus,33006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_6.jpg
+Rammus,Guardian of the Sands Rammus,33007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_7.jpg
+Rammus,Sweeper Rammus,33008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_8.jpg
+Rammus,Hextech Rammus,33016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_16.jpg
+Rammus,Astronaut Rammus,33017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_17.jpg
+Rammus,Durian Defender Rammus,33026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_26.jpg
+Reksai,No data,No data,No data,No data
+Rell,default,526000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg
+Rell,Battle Queen Rell,526001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_1.jpg
+Rell,Star Guardian Rell,526010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_10.jpg
+Rell,High Noon Rell,526020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_20.jpg
+Renataglasc,No data,No data,No data,No data
+Renekton,default,58000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg
+Renekton,Galactic Renekton,58001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_1.jpg
+Renekton,Outback Renekton,58002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_2.jpg
+Renekton,Bloodfury Renekton,58003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_3.jpg
+Renekton,Rune Wars Renekton,58004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_4.jpg
+Renekton,Scorched Earth Renekton,58005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_5.jpg
+Renekton,Pool Party Renekton,58006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_6.jpg
+Renekton,Prehistoric Renekton,58007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_7.jpg
+Renekton,SKT T1 Renekton,58008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_8.jpg
+Renekton,Renektoy,58009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_9.jpg
+Renekton,Hextech Renekton,58017,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_17.jpg
+Renekton,Blackfrost Renekton,58018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_18.jpg
+Renekton,PROJECT: Renekton,58026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_26.jpg
+Renekton,Dawnbringer Renekton,58033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_33.jpg
+Renekton,Worlds 2023 Renekton,58042,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_42.jpg
+Rengar,default,107000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg
+Rengar,Headhunter Rengar,107001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_1.jpg
+Rengar,Night Hunter Rengar,107002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_2.jpg
+Rengar,SSW Rengar,107003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_3.jpg
+Rengar,Mecha Rengar,107008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_8.jpg
+Rengar,Pretty Kitty Rengar,107015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_15.jpg
+Rengar,Guardian of the Sands Rengar,107023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_23.jpg
+Rengar,Sentinel Rengar,107030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_30.jpg
+Rengar,Street Demons Rengar,107040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_40.jpg
+Riven,default,92000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg
+Riven,Redeemed Riven,92001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_1.jpg
+Riven,Crimson Elite Riven,92002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_2.jpg
+Riven,Battle Bunny Riven,92003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_3.jpg
+Riven,Worlds 2012 Riven,92004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_4.jpg
+Riven,Dragonblade Riven,92005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_5.jpg
+Riven,Arcade Riven,92006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_6.jpg
+Riven,Reignited Worlds 2012 Riven,92007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_7.jpg
+Riven,Dawnbringer Riven,92016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_16.jpg
+Riven,Pulsefire Riven,92018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_18.jpg
+Riven,Valiant Sword Riven,92020,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_20.jpg
+Riven,Prestige Valiant Sword Riven,92022,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_22.jpg
+Riven,Spirit Blossom Riven,92023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_23.jpg
+Riven,Sentinel Riven,92034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_34.jpg
+Riven,Battle Bunny Prime Riven,92044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_44.jpg
+Riven,Prestige Valiant Sword Riven (2022),92045,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_45.jpg
+Riven,Broken Covenant Riven,92055,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_55.jpg
+Riven,Primal Ambush Riven,92063,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_63.jpg
+Rumble,default,68000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg
+Rumble,Rumble in the Jungle,68001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_1.jpg
+Rumble,Bilgerat Rumble,68002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_2.jpg
+Rumble,Super Galaxy Rumble,68003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_3.jpg
+Rumble,Badlands Baron Rumble,68004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_4.jpg
+Rumble,Space Groove Rumble,68013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_13.jpg
+Rumble,Cafe Cuties Rumble,68023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_23.jpg
+Ryze,default,13000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg
+Ryze,Young Ryze,13001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_1.jpg
+Ryze,Tribal Ryze,13002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_2.jpg
+Ryze,Uncle Ryze,13003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_3.jpg
+Ryze,Triumphant Ryze,13004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_4.jpg
+Ryze,Professor Ryze,13005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_5.jpg
+Ryze,Zombie Ryze,13006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_6.jpg
+Ryze,Dark Crystal Ryze,13007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_7.jpg
+Ryze,Pirate Ryze,13008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_8.jpg
+Ryze,Ryze Whitebeard,13009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_9.jpg
+Ryze,SKT T1 Ryze,13010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_10.jpg
+Ryze,Worlds 2019 Ryze,13011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_11.jpg
+Ryze,Guardian of the Sands Ryze,13013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_13.jpg
+Ryze,Arcana Ryze,13020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_20.jpg
+Samira,default,360000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg
+Samira,PsyOps Samira,360001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_1.jpg
+Samira,Space Groove Samira,360010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_10.jpg
+Samira,High Noon Samira,360020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_20.jpg
+Samira,Soul Fighter Samira,360030,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_30.jpg
+Sejuani,default,113000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg
+Sejuani,Sabretusk Sejuani,113001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_1.jpg
+Sejuani,Darkrider Sejuani,113002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_2.jpg
+Sejuani,Traditional Sejuani,113003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_3.jpg
+Sejuani,Bear Cavalry Sejuani,113004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_4.jpg
+Sejuani,Poro Rider Sejuani,113005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_5.jpg
+Sejuani,Beast Hunter Sejuani,113006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_6.jpg
+Sejuani,Sejuani Dawnchaser,113007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_7.jpg
+Sejuani,Firecracker Sejuani,113008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_8.jpg
+Sejuani,Hextech Sejuani,113015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_15.jpg
+Sejuani,PROJECT: Sejuani,113016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_16.jpg
+Sejuani,Solar Eclipse Sejuani,113026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_26.jpg
+Sejuani,Victorious Sejuani,113036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_36.jpg
+Senna,default,235000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg
+Senna,True Damage Senna,235001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg
+Senna,Prestige True Damage Senna,235009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_9.jpg
+Senna,High Noon Senna,235010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_10.jpg
+Senna,PROJECT: Senna,235016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_16.jpg
+Senna,Lunar Eclipse Senna,235026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_26.jpg
+Senna,Prestige Lunar Eclipse Senna,235027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_27.jpg
+Senna,Bewitching Senna,235036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_36.jpg
+Senna,Star Guardian Senna,235046,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_46.jpg
+Senna,Winterblessed Senna,235056,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_56.jpg
+Seraphine,default,147000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg
+Seraphine,K/DA ALL OUT Seraphine Indie,147001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_1.jpg
+Seraphine,K/DA ALL OUT Seraphine Rising Star,147002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_2.jpg
+Seraphine,K/DA ALL OUT Seraphine Superstar,147003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_3.jpg
+Seraphine,Graceful Phoenix Seraphine,147004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_4.jpg
+Seraphine,Ocean Song Seraphine,147014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_14.jpg
+Seraphine,Prestige Ocean Song Seraphine,147015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_15.jpg
+Seraphine,Faerie Court Seraphine,147024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_24.jpg
+Seraphine,Star Guardian Seraphine,147034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_34.jpg
+Seraphine,Battle Dove Seraphine,147043,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_43.jpg
+Sett,default,875000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg
+Sett,Mecha Kingdoms Sett,875001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_1.jpg
+Sett,Obsidian Dragon Sett,875008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_8.jpg
+Sett,Prestige Obsidian Dragon Sett,875009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_9.jpg
+Sett,Pool Party Sett,875010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_10.jpg
+Sett,Firecracker Sett,875019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_19.jpg
+Sett,Spirit Blossom Sett,875038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_38.jpg
+Sett,Soul Fighter Sett,875045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_45.jpg
+Sett,HEARTSTEEL Sett,875056,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_56.jpg
+Shaco,default,35000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg
+Shaco,Mad Hatter Shaco,35001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_1.jpg
+Shaco,Royal Shaco,35002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_2.jpg
+Shaco,Nutcracko,35003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_3.jpg
+Shaco,Workshop Shaco,35004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_4.jpg
+Shaco,Asylum Shaco,35005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_5.jpg
+Shaco,Masked Shaco,35006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_6.jpg
+Shaco,Wild Card Shaco,35007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_7.jpg
+Shaco,Dark Star Shaco,35008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_8.jpg
+Shaco,Arcanist Shaco,35015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_15.jpg
+Shaco,Crime City Nightmare Shaco,35023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_23.jpg
+Shaco,Winterblessed Shaco,35033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_33.jpg
+Shaco,Soul Fighter Shaco,35043,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_43.jpg
+Shaco,Prestige Soul Fighter Shaco,35044,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_44.jpg
+Shaco,Fright Night Shaco,35054,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_54.jpg
+Shen,default,98000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg
+Shen,Frozen Shen,98001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_1.jpg
+Shen,Yellow Jacket Shen,98002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_2.jpg
+Shen,Surgeon Shen,98003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_3.jpg
+Shen,Blood Moon Shen,98004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_4.jpg
+Shen,Warlord Shen,98005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_5.jpg
+Shen,TPA Shen,98006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_6.jpg
+Shen,Pulsefire Shen,98015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_15.jpg
+Shen,Infernal Shen,98016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_16.jpg
+Shen,PsyOps Shen,98022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_22.jpg
+Shen,Shockblade Shen,98040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_40.jpg
+Shen,Ashen Guardian Shen,98049,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_49.jpg
+Shyvana,default,102000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg
+Shyvana,Ironscale Shyvana,102001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_1.jpg
+Shyvana,Boneclaw Shyvana,102002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_2.jpg
+Shyvana,Darkflame Shyvana,102003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_3.jpg
+Shyvana,Ice Drake Shyvana,102004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_4.jpg
+Shyvana,Worlds 2014 Shyvana,102005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_5.jpg
+Shyvana,Super Galaxy Shyvana,102006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_6.jpg
+Shyvana,Ruined Shyvana,102008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_8.jpg
+Shyvana,Immortal Journey Shyvana,102017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_17.jpg
+Singed,default,27000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg
+Singed,Riot Squad Singed,27001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_1.jpg
+Singed,Hextech Singed,27002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_2.jpg
+Singed,Surfer Singed,27003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_3.jpg
+Singed,Mad Scientist Singed,27004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_4.jpg
+Singed,Augmented Singed,27005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_5.jpg
+Singed,Snow Day Singed,27006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_6.jpg
+Singed,SSW Singed,27007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_7.jpg
+Singed,Black Scourge Singed,27008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_8.jpg
+Singed,Beekeeper Singed,27009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_9.jpg
+Singed,Resistance Singed,27010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_10.jpg
+Singed,Astronaut Singed,27019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_19.jpg
+Singed,Arcane Shimmer Lab Singed,27028,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_28.jpg
+Sion,default,14000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg
+Sion,Hextech Sion,14001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_1.jpg
+Sion,Barbarian Sion,14002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_2.jpg
+Sion,Lumberjack Sion,14003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_3.jpg
+Sion,Warmonger Sion,14004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_4.jpg
+Sion,Mecha Zero Sion,14005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_5.jpg
+Sion,Worldbreaker Sion,14014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_14.jpg
+Sion,Blackfrost Sion,14022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_22.jpg
+Sion,High Noon Sion,14030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_30.jpg
+Sion,Cosmic Paladin Sion,14040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_40.jpg
+Sivir,default,15000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg
+Sivir,Warrior Princess Sivir,15001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_1.jpg
+Sivir,Spectacular Sivir,15002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_2.jpg
+Sivir,Huntress Sivir,15003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_3.jpg
+Sivir,Bandit Sivir,15004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_4.jpg
+Sivir,PAX Sivir,15005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_5.jpg
+Sivir,Snowstorm Sivir,15006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_6.jpg
+Sivir,Warden Sivir,15007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_7.jpg
+Sivir,Victorious Sivir,15008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_8.jpg
+Sivir,Neo PAX Sivir,15009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_9.jpg
+Sivir,Pizza Delivery Sivir,15010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_10.jpg
+Sivir,Blood Moon Sivir,15016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_16.jpg
+Sivir,Odyssey Sivir,15025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_25.jpg
+Sivir,Cafe Cuties Sivir,15034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_34.jpg
+Sivir,Solar Eclipse Sivir,15043,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_43.jpg
+Sivir,Mythmaker Sivir,15050,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_50.jpg
+Sivir,Prestige Mythmaker Sivir,15051,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_51.jpg
+Sivir,Primal Ambush Sivir,15061,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_61.jpg
+Sivir,Ann-Sivir-sary,15070,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_70.jpg
+Skarner,default,72000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg
+Skarner,Sandscourge Skarner,72001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_1.jpg
+Skarner,Earthrune Skarner,72002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_2.jpg
+Skarner,Battlecast Alpha Skarner,72003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_3.jpg
+Skarner,Guardian of the Sands Skarner,72004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_4.jpg
+Skarner,Cosmic Sting Skarner,72005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_5.jpg
+Smolder,default,901000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg
+Smolder,Heavenscale Smolder,901001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_1.jpg
+Sona,default,37000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg
+Sona,Muse Sona,37001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_1.jpg
+Sona,Pentakill Sona,37002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_2.jpg
+Sona,Silent Night Sona,37003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_3.jpg
+Sona,Guqin Sona,37004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_4.jpg
+Sona,Arcade Sona,37005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_5.jpg
+Sona,DJ Sona,37006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_6.jpg
+Sona,Sweetheart Sona,37007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_7.jpg
+Sona,Odyssey Sona,37009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_9.jpg
+Sona,PsyOps Sona,37017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_17.jpg
+Sona,Pentakill III: Lost Chapter Sona,37026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_26.jpg
+Sona,Star Guardian Sona,37035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_35.jpg
+Sona,Immortal Journey Sona,37045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_45.jpg
+Sona,Prestige Immortal Journey Sona,37046,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_46.jpg
+Sona,Victorious Sona,37056,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_56.jpg
+Soraka,default,16000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg
+Soraka,Dryad Soraka,16001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_1.jpg
+Soraka,Divine Soraka,16002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_2.jpg
+Soraka,Celestine Soraka,16003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_3.jpg
+Soraka,Reaper Soraka,16004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_4.jpg
+Soraka,Order of the Banana Soraka,16005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_5.jpg
+Soraka,Program Soraka,16006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_6.jpg
+Soraka,Star Guardian Soraka,16007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_7.jpg
+Soraka,Pajama Guardian Soraka,16008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_8.jpg
+Soraka,Winter Wonder Soraka,16009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_9.jpg
+Soraka,Dawnbringer Soraka,16015,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_15.jpg
+Soraka,Nightbringer Soraka,16016,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_16.jpg
+Soraka,Prestige Star Guardian Soraka,16017,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_17.jpg
+Soraka,Cafe Cuties Soraka,16018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_18.jpg
+Soraka,Spirit Blossom Soraka,16027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_27.jpg
+Soraka,Immortal Journey Soraka,16037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_37.jpg
+Soraka,Faerie Court Soraka,16044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_44.jpg
+Swain,default,50000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg
+Swain,Northern Front Swain,50001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_1.jpg
+Swain,Bilgewater Swain,50002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_2.jpg
+Swain,Tyrant Swain,50003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_3.jpg
+Swain,Dragon Master Swain,50004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg
+Swain,Hextech Swain,50011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_11.jpg
+Swain,Crystal Rose Swain,50012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_12.jpg
+Swain,Winterblessed Swain,50021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_21.jpg
+Swain,Chosen of the Wolf Swain,50032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_32.jpg
+Swain,Prestige Chosen of the Wolf Swain,50033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_33.jpg
+Sylas,default,517000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg
+Sylas,Lunar Wraith Sylas,517001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_1.jpg
+Sylas,Freljord Sylas,517008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_8.jpg
+Sylas,PROJECT: Sylas,517013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_13.jpg
+Sylas,Prestige PROJECT: Sylas,517014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_14.jpg
+Sylas,Battle Wolf Sylas,517024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_24.jpg
+Sylas,Ashen Slayer Sylas,517034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_34.jpg
+Sylas,Winterblessed Sylas,517036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_36.jpg
+Sylas,Dark Star Sylas,517046,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_46.jpg
+Syndra,default,134000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg
+Syndra,Justicar Syndra,134001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_1.jpg
+Syndra,Atlantean Syndra,134002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_2.jpg
+Syndra,Queen of Diamonds Syndra,134003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_3.jpg
+Syndra,Snow Day Syndra,134004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_4.jpg
+Syndra,SKT T1 Syndra,134005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_5.jpg
+Syndra,Star Guardian Syndra,134006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_6.jpg
+Syndra,Pool Party Syndra,134007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_7.jpg
+Syndra,Withered Rose Syndra,134016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_16.jpg
+Syndra,Bewitching Syndra,134025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_25.jpg
+Syndra,Prestige Star Guardian Syndra,134034,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_34.jpg
+Syndra,Spirit Blossom Syndra,134044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_44.jpg
+Syndra,Coven Syndra,134054,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_54.jpg
+Tahmkench,No data,No data,No data,No data
+Taliyah,default,163000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg
+Taliyah,Freljord Taliyah,163001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_1.jpg
+Taliyah,SSG Taliyah,163002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_2.jpg
+Taliyah,Pool Party Taliyah,163003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_3.jpg
+Taliyah,Star Guardian Taliyah,163011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_11.jpg
+Taliyah,Crystalis Motus Taliyah,163021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_21.jpg
+Talon,default,91000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg
+Talon,Renegade Talon,91001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_1.jpg
+Talon,Crimson Elite Talon,91002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_2.jpg
+Talon,Dragonblade Talon,91003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_3.jpg
+Talon,SSW Talon,91004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_4.jpg
+Talon,Blood Moon Talon,91005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_5.jpg
+Talon,Enduring Sword Talon,91012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_12.jpg
+Talon,Talon Blackwood,91020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_20.jpg
+Talon,Withered Rose Talon,91029,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_29.jpg
+Talon,High Noon Talon,91038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_38.jpg
+Talon,Prestige High Noon Talon,91039,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_39.jpg
+Talon,Primal Ambush Talon,91049,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_49.jpg
+Taric,default,44000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg
+Taric,Emerald Taric,44001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_1.jpg
+Taric,Armor of the Fifth Age Taric,44002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_2.jpg
+Taric,Bloodstone Taric,44003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_3.jpg
+Taric,Pool Party Taric,44004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_4.jpg
+Taric,Taric Luminshield,44009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_9.jpg
+Taric,Space Groove Taric,44018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_18.jpg
+Teemo,default,17000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg
+Teemo,Happy Elf Teemo,17001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_1.jpg
+Teemo,Recon Teemo,17002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_2.jpg
+Teemo,Badger Teemo,17003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_3.jpg
+Teemo,Astronaut Teemo,17004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_4.jpg
+Teemo,Cottontail Teemo,17005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_5.jpg
+Teemo,Super Teemo,17006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_6.jpg
+Teemo,Panda Teemo,17007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_7.jpg
+Teemo,Omega Squad Teemo,17008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_8.jpg
+Teemo,Little Devil Teemo,17014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_14.jpg
+Teemo,Beemo,17018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg
+Teemo,Spirit Blossom Teemo,17025,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_25.jpg
+Teemo,Prestige Spirit Blossom Teemo,17027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_27.jpg
+Teemo,Firecracker Teemo,17037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_37.jpg
+Teemo,Space Groove Teemo,17047,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_47.jpg
+Thresh,default,412000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg
+Thresh,Deep Terror Thresh,412001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_1.jpg
+Thresh,Worlds 2013 Thresh,412002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_2.jpg
+Thresh,Blood Moon Thresh,412003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_3.jpg
+Thresh,SSW Thresh,412004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_4.jpg
+Thresh,Dark Star Thresh,412005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_5.jpg
+Thresh,High Noon Thresh,412006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg
+Thresh,Pulsefire Thresh,412013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_13.jpg
+Thresh,Prestige Pulsefire Thresh,412014,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_14.jpg
+Thresh,FPX Thresh,412015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_15.jpg
+Thresh,Spirit Blossom Thresh,412017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_17.jpg
+Thresh,Unbound Thresh,412027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_27.jpg
+Thresh,Steel Dragon Thresh,412028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_28.jpg
+Thresh,Prestige Pulsefire Thresh (2022),412038,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_38.jpg
+Thresh,Lunar Emperor Thresh,412039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_39.jpg
+Thresh,Winterblessed Thresh,412049,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_49.jpg
+Thresh,Janitor Thresh,412059,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_59.jpg
+Tristana,default,18000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg
+Tristana,Riot Girl Tristana,18001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_1.jpg
+Tristana,Earnest Elf Tristana,18002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_2.jpg
+Tristana,Firefighter Tristana,18003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_3.jpg
+Tristana,Guerilla Tristana,18004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_4.jpg
+Tristana,Buccaneer Tristana,18005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_5.jpg
+Tristana,Rocket Girl Tristana,18006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_6.jpg
+Tristana,Dragon Trainer Tristana,18010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_10.jpg
+Tristana,Bewitching Tristana,18011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_11.jpg
+Tristana,Omega Squad Tristana,18012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_12.jpg
+Tristana,Little Demon Tristana,18024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_24.jpg
+Tristana,Pengu Cosplay Tristana,18033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_33.jpg
+Tristana,Hextech Tristana,18040,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_40.jpg
+Tristana,Firecracker Tristana,18041,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_41.jpg
+Tristana,Spirit Blossom Tristana,18051,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_51.jpg
+Tristana,Faerie Court Tristana,18061,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_61.jpg
+Trundle,default,48000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg
+Trundle,Lil' Slugger Trundle,48001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_1.jpg
+Trundle,Junkyard Trundle,48002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_2.jpg
+Trundle,Traditional Trundle,48003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_3.jpg
+Trundle,Constable Trundle,48004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_4.jpg
+Trundle,Worldbreaker Trundle,48005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_5.jpg
+Trundle,Dragonslayer Trundle,48006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_6.jpg
+Trundle,Fright Night Trundle,48012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_12.jpg
+Trundle,Esports Fan Trundle,48021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_21.jpg
+Tryndamere,default,23000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg
+Tryndamere,Highland Tryndamere,23001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_1.jpg
+Tryndamere,King Tryndamere,23002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_2.jpg
+Tryndamere,Viking Tryndamere,23003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_3.jpg
+Tryndamere,Demonblade Tryndamere,23004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_4.jpg
+Tryndamere,Sultan Tryndamere,23005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_5.jpg
+Tryndamere,Warring Kingdoms Tryndamere,23006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_6.jpg
+Tryndamere,Nightmare Tryndamere,23007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_7.jpg
+Tryndamere,Beast Hunter Tryndamere,23008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_8.jpg
+Tryndamere,Chemtech Tryndamere,23009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_9.jpg
+Tryndamere,Blood Moon Tryndamere,23010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_10.jpg
+Tryndamere,Nightbringer Tryndamere,23018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_18.jpg
+Tryndamere,Victorious Tryndamere,23027,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_27.jpg
+Twistedfate,No data,No data,No data,No data
+Twitch,default,29000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg
+Twitch,Kingpin Twitch,29001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_1.jpg
+Twitch,Whistler Village Twitch,29002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_2.jpg
+Twitch,Medieval Twitch,29003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_3.jpg
+Twitch,Crime City Twitch,29004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_4.jpg
+Twitch,Vandal Twitch,29005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_5.jpg
+Twitch,Pickpocket Twitch,29006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_6.jpg
+Twitch,SSW Twitch,29007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_7.jpg
+Twitch,Omega Squad Twitch,29008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_8.jpg
+Twitch,Ice King Twitch,29012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_12.jpg
+Twitch,Twitch Shadowfoot,29027,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_27.jpg
+Twitch,Dragonslayer Twitch,29036,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_36.jpg
+Twitch,High Noon Twitch,29045,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_45.jpg
+Twitch,Cheddar Chief Twitch,29055,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_55.jpg
+Udyr,default,77000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg
+Udyr,Black Belt Udyr,77001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_1.jpg
+Udyr,Primal Udyr,77002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_2.jpg
+Udyr,Spirit Guard Udyr,77003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_3.jpg
+Udyr,Definitely Not Udyr,77004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_4.jpg
+Udyr,Dragon Oracle Udyr,77005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_5.jpg
+Udyr,Inkshadow Udyr,77006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_6.jpg
+Urgot,default,6000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg
+Urgot,Giant Enemy Crabgot,6001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_1.jpg
+Urgot,Butcher Urgot,6002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_2.jpg
+Urgot,Battlecast Urgot,6003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_3.jpg
+Urgot,High Noon Urgot,6009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_9.jpg
+Urgot,Pajama Guardian Cosplay Urgot,6015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_15.jpg
+Urgot,Fright Night Urgot,6023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_23.jpg
+Varus,default,110000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg
+Varus,Blight Crystal Varus,110001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_1.jpg
+Varus,Arclight Varus,110002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_2.jpg
+Varus,Arctic Ops Varus,110003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_3.jpg
+Varus,Heartseeker Varus,110004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_4.jpg
+Varus,Varus Swiftbolt,110005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_5.jpg
+Varus,Dark Star Varus,110006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_6.jpg
+Varus,Conqueror Varus,110007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_7.jpg
+Varus,Infernal Varus,110009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_9.jpg
+Varus,PROJECT: Varus,110016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_16.jpg
+Varus,Cosmic Hunter Varus,110017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_17.jpg
+Varus,High Noon Varus,110034,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_34.jpg
+Varus,Snow Moon Varus,110044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_44.jpg
+Varus,Empyrean Varus,110053,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_53.jpg
+Vayne,default,67000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg
+Vayne,Vindicator Vayne,67001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_1.jpg
+Vayne,Aristocrat Vayne,67002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_2.jpg
+Vayne,Dragonslayer Vayne,67003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_3.jpg
+Vayne,Heartseeker Vayne,67004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_4.jpg
+Vayne,SKT T1 Vayne,67005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_5.jpg
+Vayne,Arclight Vayne,67006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_6.jpg
+Vayne,Soulstealer Vayne,67010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_10.jpg
+Vayne,PROJECT: Vayne,67011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_11.jpg
+Vayne,Firecracker Vayne,67012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_12.jpg
+Vayne,Prestige Firecracker Vayne,67013,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_13.jpg
+Vayne,Spirit Blossom Vayne,67014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_14.jpg
+Vayne,FPX Vayne,67015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_15.jpg
+Vayne,Sentinel Vayne,67025,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_25.jpg
+Vayne,Battle Bat Vayne,67032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_32.jpg
+Vayne,Prestige Firecracker Vayne (2022),67033,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_33.jpg
+Vayne,Dawnbringer Vayne,67044,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_44.jpg
+Vayne,Dragonmancer Vayne,67055,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_55.jpg
+Veigar,default,45000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg
+Veigar,White Mage Veigar,45001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_1.jpg
+Veigar,Curling Veigar,45002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_2.jpg
+Veigar,Veigar Greybeard,45003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_3.jpg
+Veigar,Leprechaun Veigar,45004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_4.jpg
+Veigar,Baron Von Veigar,45005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_5.jpg
+Veigar,Superb Villain Veigar,45006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_6.jpg
+Veigar,Bad Santa Veigar,45007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_7.jpg
+Veigar,Final Boss Veigar,45008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_8.jpg
+Veigar,Omega Squad Veigar,45009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_9.jpg
+Veigar,Elderwood Veigar,45013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_13.jpg
+Veigar,Furyhorn Cosplay Veigar,45023,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_23.jpg
+Veigar,Astronaut Veigar,45032,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_32.jpg
+Veigar,Monster Tamer Veigar,45041,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_41.jpg
+Veigar,King Beegar,45051,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_51.jpg
+Veigar,Fright Night Veigar,45060,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_60.jpg
+Velkoz,default,161000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg
+Velkoz,Battlecast Vel'Koz,161001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_1.jpg
+Velkoz,Arclight Vel'Koz,161002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_2.jpg
+Velkoz,Definitely Not Vel'Koz,161003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_3.jpg
+Velkoz,Infernal Vel'Koz,161004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_4.jpg
+Velkoz,Blackfrost Vel'Koz,161011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_11.jpg
+Velkoz,Bee'Koz,161020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_20.jpg
+Vex,default,711000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg
+Vex,Dawnbringer Vex,711001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_1.jpg
+Vex,Empyrean Vex,711010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_10.jpg
+Vi,default,254000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg
+Vi,Neon Strike Vi,254001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_1.jpg
+Vi,Officer Vi,254002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_2.jpg
+Vi,Debonair Vi,254003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_3.jpg
+Vi,Demon Vi,254004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_4.jpg
+Vi,Warring Kingdoms Vi,254005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_5.jpg
+Vi,PROJECT: Vi,254011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_11.jpg
+Vi,Heartbreaker Vi,254012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_12.jpg
+Vi,PsyOps Vi,254020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_20.jpg
+Vi,Arcane Vi,254029,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_29.jpg
+Vi,Heartache Vi,254030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_30.jpg
+Vi,Primal Ambush Vi,254039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_39.jpg
+Vi,Arcane Brawler Vi,254048,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_48.jpg
+Viego,default,234000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg
+Viego,Lunar Beast Viego,234001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_1.jpg
+Viego,Dissonance of Pentakill Viego,234010,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_10.jpg
+Viego,EDG Viego,234019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_19.jpg
+Viego,King Viego,234021,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_21.jpg
+Viego,Soul Fighter Viego,234030,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_30.jpg
+Viego,Worlds 2024 Viego,234037,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_37.jpg
+Viktor,default,112000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg
+Viktor,Full Machine Viktor,112001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_1.jpg
+Viktor,Prototype Viktor,112002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_2.jpg
+Viktor,Creator Viktor,112003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_3.jpg
+Viktor,Death Sworn Viktor,112004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_4.jpg
+Viktor,PsyOps Viktor,112005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_5.jpg
+Viktor,High Noon Viktor,112014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_14.jpg
+Vladimir,default,8000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg
+Vladimir,Count Vladimir,8001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_1.jpg
+Vladimir,Marquis Vladimir,8002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_2.jpg
+Vladimir,Nosferatu Vladimir,8003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_3.jpg
+Vladimir,Vandal Vladimir,8004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_4.jpg
+Vladimir,Blood Lord Vladimir,8005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_5.jpg
+Vladimir,Soulstealer Vladimir,8006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_6.jpg
+Vladimir,Academy Vladimir,8007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_7.jpg
+Vladimir,Dark Waters Vladimir,8008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_8.jpg
+Vladimir,Nightbringer Vladimir,8014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_14.jpg
+Vladimir,Cosmic Devourer Vladimir,8021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_21.jpg
+Vladimir,Cafe Cuties Vladimir,8030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_30.jpg
+Vladimir,Broken Covenant Vladimir,8039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_39.jpg
+Volibear,default,106000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg
+Volibear,Thunder Lord Volibear,106001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_1.jpg
+Volibear,Northern Storm Volibear,106002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_2.jpg
+Volibear,Runeguard Volibear,106003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_3.jpg
+Volibear,Captain Volibear,106004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_4.jpg
+Volibear,El Rayo Volibear,106005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_5.jpg
+Volibear,The Thousand-Pierced Bear,106006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_6.jpg
+Volibear,Duality Dragon Volibear,106007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_7.jpg
+Volibear,Prestige Duality Dragon Volibear,106009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_9.jpg
+Volibear,Inkshadow Volibear,106019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_19.jpg
+Warwick,default,19000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg
+Warwick,Grey Warwick,19001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_1.jpg
+Warwick,Urf the Manatee,19002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_2.jpg
+Warwick,Big Bad Warwick,19003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_3.jpg
+Warwick,Tundra Hunter Warwick,19004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_4.jpg
+Warwick,Feral Warwick,19005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_5.jpg
+Warwick,Firefang Warwick,19006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_6.jpg
+Warwick,Hyena Warwick,19007,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_7.jpg
+Warwick,Marauder Warwick,19008,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_8.jpg
+Warwick,Urfwick,19009,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_9.jpg
+Warwick,Lunar Guardian Warwick,19010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_10.jpg
+Warwick,PROJECT: Warwick,19016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_16.jpg
+Warwick,Old God Warwick,19035,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_35.jpg
+Warwick,Winterblessed Warwick,19045,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_45.jpg
+Warwick,Prestige Winterblessed Warwick,19046,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_46.jpg
+Wukong,No data,No data,No data,No data
+Xayah,default,498000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg
+Xayah,Cosmic Dusk Xayah,498001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_1.jpg
+Xayah,Sweetheart Xayah,498002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_2.jpg
+Xayah,SSG Xayah,498003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_3.jpg
+Xayah,Star Guardian Xayah,498004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_4.jpg
+Xayah,Elderwood Xayah,498008,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_8.jpg
+Xayah,Brave Phoenix Xayah,498017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_17.jpg
+Xayah,Prestige Brave Phoenix Xayah,498026,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_26.jpg
+Xayah,Arcana Xayah,498028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_28.jpg
+Xayah,Broken Covenant Xayah,498037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_37.jpg
+Xayah,Redeemed Star Guardian Xayah,498038,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_38.jpg
+Xayah,Battle Bat Xayah,498047,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_47.jpg
+Xerath,default,101000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg
+Xerath,Runeborn Xerath,101001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_1.jpg
+Xerath,Battlecast Xerath,101002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_2.jpg
+Xerath,Scorched Earth Xerath,101003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_3.jpg
+Xerath,Guardian of the Sands Xerath,101004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_4.jpg
+Xerath,Dark Star Xerath,101005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_5.jpg
+Xerath,Arcana Xerath,101012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_12.jpg
+Xerath,Astronaut Xerath,101021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_21.jpg
+Xerath,Crystalis Indomitus Xerath,101030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_30.jpg
+Xinzhao,No data,No data,No data,No data
+Yasuo,default,157000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg
+Yasuo,High Noon Yasuo,157001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_1.jpg
+Yasuo,PROJECT: Yasuo,157002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_2.jpg
+Yasuo,Blood Moon Yasuo,157003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_3.jpg
+Yasuo,Nightbringer Yasuo,157009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_9.jpg
+Yasuo,Odyssey Yasuo,157010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_10.jpg
+Yasuo,Battle Boss Yasuo,157017,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_17.jpg
+Yasuo,True Damage Yasuo,157018,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_18.jpg
+Yasuo,Prestige True Damage Yasuo,157035,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_35.jpg
+Yasuo,Spirit Blossom Yasuo,157036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_36.jpg
+Yasuo,Sea Dog Yasuo,157045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_45.jpg
+Yasuo,Truth Dragon Yasuo,157054,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_54.jpg
+Yasuo,Dream Dragon Yasuo,157055,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_55.jpg
+Yasuo,Inkshadow Yasuo,157056,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_56.jpg
+Yasuo,Prestige Inkshadow Yasuo,157057,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_57.jpg
+Yasuo,Foreseen Yasuo,157068,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_68.jpg
+Yasuo,Battle Wolf Yasuo,157077,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_77.jpg
+Yasuo,Genesis Nightbringer Yasuo,157087,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_87.jpg
+Yone,default,777000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg
+Yone,Spirit Blossom Yone,777001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_1.jpg
+Yone,Battle Academia Yone,777010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_10.jpg
+Yone,Dawnbringer Yone,777019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_19.jpg
+Yone,Ocean Song Yone,777026,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_26.jpg
+Yone,Inkshadow Yone,777035,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_35.jpg
+Yone,HEARTSTEEL Yone,777045,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_45.jpg
+Yone,Prestige HEARTSTEEL Yone,777046,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_46.jpg
+Yone,High Noon Yone,777055,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_55.jpg
+Yone,Peacemaker High Noon Yone,777058,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_58.jpg
+Yorick,default,83000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg
+Yorick,Undertaker Yorick,83001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_1.jpg
+Yorick,Pentakill Yorick,83002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_2.jpg
+Yorick,Arclight Yorick,83003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_3.jpg
+Yorick,Meowrick,83004,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_4.jpg
+Yorick,Resistance Yorick,83012,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_12.jpg
+Yorick,Pentakill III: Lost Chapter Yorick,83021,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_21.jpg
+Yorick,Spirit Blossom Yorick,83030,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_30.jpg
+Yorick,Dark Star Yorick,83040,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_40.jpg
+Yuumi,default,350000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg
+Yuumi,Battle Principal Yuumi,350001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_1.jpg
+Yuumi,Heartseeker Yuumi,350011,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_11.jpg
+Yuumi,Yuubee,350019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_19.jpg
+Yuumi,Bewitching Yuumi,350028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_28.jpg
+Yuumi,EDG Yuumi,350037,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_37.jpg
+Yuumi,Shiba Yuumi,350039,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_39.jpg
+Yuumi,Cyber Cat Yuumi,350049,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_49.jpg
+Yuumi,Prestige Cyber Cat Yuumi,350050,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_50.jpg
+Zac,default,154000,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg
+Zac,Special Weapon Zac,154001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_1.jpg
+Zac,Pool Party Zac,154002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_2.jpg
+Zac,SKT T1 Zac,154006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_6.jpg
+Zac,Battlecast Zac,154007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_7.jpg
+Zac,Empyrean Zac,154014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_14.jpg
+Zac,Zesty Dip Zac,154024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_24.jpg
+Zed,default,238000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg
+Zed,Shockblade Zed,238001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_1.jpg
+Zed,SKT T1 Zed,238002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_2.jpg
+Zed,PROJECT: Zed,238003,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_3.jpg
+Zed,Worlds 2016 Zed,238010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_10.jpg
+Zed,Death Sworn Zed,238011,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_11.jpg
+Zed,Galaxy Slayer Zed,238013,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_13.jpg
+Zed,PsyOps Zed,238015,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_15.jpg
+Zed,Prestige PROJECT: Zed,238030,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_30.jpg
+Zed,Debonair Zed,238031,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_31.jpg
+Zed,Empyrean Zed,238038,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_38.jpg
+Zed,Immortal Journey Zed,238049,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_49.jpg
+Zed,Blood Moon Zed,238058,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_58.jpg
+Zeri,default,221000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg
+Zeri,Withered Rose Zeri,221001,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_1.jpg
+Zeri,Ocean Song Zeri,221010,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_10.jpg
+Zeri,Immortal Journey Zeri,221019,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_19.jpg
+Zeri,Fright Night Zeri,221028,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_28.jpg
+Zeri,Prestige Fright Night Zeri,221029,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_29.jpg
+Ziggs,default,115000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg
+Ziggs,Mad Scientist Ziggs,115001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_1.jpg
+Ziggs,Major Ziggs,115002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_2.jpg
+Ziggs,Pool Party Ziggs,115003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_3.jpg
+Ziggs,Snow Day Ziggs,115004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_4.jpg
+Ziggs,Master Arcanist Ziggs,115005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_5.jpg
+Ziggs,Battle Boss Ziggs,115006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_6.jpg
+Ziggs,Odyssey Ziggs,115007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_7.jpg
+Ziggs,Sugar Rush Ziggs,115014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_14.jpg
+Ziggs,Hextech Ziggs,115023,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_23.jpg
+Ziggs,BZZZiggs,115024,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_24.jpg
+Ziggs,La Ilusión Ziggs,115033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_33.jpg
+Zilean,default,26000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg
+Zilean,Old Saint Zilean,26001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_1.jpg
+Zilean,Groovy Zilean,26002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_2.jpg
+Zilean,Shurima Desert Zilean,26003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_3.jpg
+Zilean,Time Machine Zilean,26004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_4.jpg
+Zilean,Blood Moon Zilean,26005,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_5.jpg
+Zilean,Sugar Rush Zilean,26006,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_6.jpg
+Zilean,Winterblessed Zilean,26014,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_14.jpg
+Zoe,default,142000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg
+Zoe,Cyber Pop Zoe,142001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_1.jpg
+Zoe,Pool Party Zoe,142002,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_2.jpg
+Zoe,Star Guardian Zoe,142009,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_9.jpg
+Zoe,Arcanist Zoe,142018,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_18.jpg
+Zoe,Prestige Arcanist Zoe,142019,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_19.jpg
+Zoe,EDG Zoe,142020,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_20.jpg
+Zoe,Winterblessed Zoe,142022,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_22.jpg
+Zoe,Dark Star Zoe,142033,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_33.jpg
+Zyra,default,143000,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg
+Zyra,Wildfire Zyra,143001,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_1.jpg
+Zyra,Haunted Zyra,143002,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_2.jpg
+Zyra,SKT T1 Zyra,143003,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_3.jpg
+Zyra,Dragon Sorceress Zyra,143004,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_4.jpg
+Zyra,Coven Zyra,143005,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_5.jpg
+Zyra,Prestige Coven Zyra,143006,False,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_6.jpg
+Zyra,Crystal Rose Zyra,143007,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_7.jpg
+Zyra,Crime City Nightmare Zyra,143016,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_16.jpg
+Zyra,Mythmaker Zyra,143036,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_36.jpg
+Zyra,Street Demons Zyra,143046,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_46.jpg
+Zyra,Blood Moon Zyra,143055,True,https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_55.jpg
