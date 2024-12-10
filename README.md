@@ -33,6 +33,7 @@ Creating this dashboard was an excellent opportunity to merge my learning in Pow
 
 🌟 **Explore the Code and Dashboard**
 You’ll find the Python code used for automation, screenshots of the dashboard, and a detailed explanation of how it all works.
+https://raw.githubusercontent.com/natalia-del/LeagueofLegendsAnalysis/refs/heads/main/Descriptions.py
 ![Zrzut ekranu 2024-12-10 164319](https://github.com/user-attachments/assets/144cc338-6570-4c7f-853e-c36433e1e7c5)
 
 ![image](https://github.com/user-attachments/assets/23cef859-8c23-4b63-aef4-c8fb2379b963)
