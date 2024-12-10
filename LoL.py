@@ -3,17 +3,15 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 
-# Uruchomienie przeglądarki
+
 driver = webdriver.Firefox()
 
-# Otwórz stronę League of Legends
+
 url = "https://universe.leagueoflegends.com/pl_PL/champions/"
 driver.get(url)
 
-# Poczekaj na załadowanie zawartości (np. 5 sekund)
 time.sleep(5)
 
-# Znajdź wszystkie elementy ze zdjęciami bohaterów
 champion_elements = driver.find_elements(By.XPATH, "//div[contains(@class, 'image_3oOd avatar_3vJT')]")
 champion_name = driver.find_elements(By.XPATH, "//div[contains(@class, 'copy_xxN7')]/h1")
 
