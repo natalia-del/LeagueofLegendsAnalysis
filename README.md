@@ -32,7 +32,9 @@ You can view champion statistics, descriptions, and even visualizations of skins
 Creating this dashboard was an excellent opportunity to merge my learning in Power BI and Python. Python played a crucial role in automating the extraction of champion skin images and descriptions, making the data dynamic and visually engaging.
 
 🌟 **Explore the Code and Dashboard**
-Check out the GitHub repository here ().
+Check out the GitHub repository here (
+Descriptions.py
+).
 You’ll find the Python code used for automation, screenshots of the dashboard, and a detailed explanation of how it all works.
 ![Zrzut ekranu 2024-12-10 164319](https://github.com/user-attachments/assets/144cc338-6570-4c7f-853e-c36433e1e7c5)
 
