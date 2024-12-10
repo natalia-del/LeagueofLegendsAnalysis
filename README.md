@@ -20,7 +20,7 @@ A Support champion might be your best choice, but careful mana management is cru
 - Top and Jungle champions have the highest base health but suffer from lower mana pools.
 - Champions on the Mid and Bot lanes can stay in the fight longer due to efficient mana usage, though their health is more limited.
 - Marksman champions are the most expensive, regardless of the currency (Blue Essence or Riot Points).
-- Riot Games tends to develop most champions for the Top and Jungle lanes, likely reflecting the popularity of these roles among players.
+- Riot Games tends to develop most champions for the Top and Jungle lanes, likely reflecting the popularity of these roles among players.  
 💻 **Interactive Features**
 The dashboard offers various interactive features:
 
