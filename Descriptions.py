@@ -46,8 +46,8 @@ if respone.status_code == 200:
         csv_object = csv.writer(champ_file) #obiekt , aby zapisać csv
         csv_object.writerows(data_list) #zapisanie wierszy
 
-    print("Dane zostały zapisane")
+    print("The data has been saved")
 
 else:
-    raise response_error(f"Błąd w połączeniu {respone.status_code}")
+    raise response_error(f"Connection error {respone.status_code}")
 
