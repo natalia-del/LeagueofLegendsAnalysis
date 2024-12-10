@@ -32,12 +32,18 @@ You can view champion statistics, descriptions, and even visualizations of skins
 Creating this dashboard was an excellent opportunity to merge my learning in Power BI and Python. Python played a crucial role in automating the extraction of champion skin images and descriptions, making the data dynamic and visually engaging.
 
 🌟 **Explore the Code and Dashboard**
-You’ll find the Python code used for automation, screenshots of the dashboard, and a detailed explanation of how it all works.
-https://raw.githubusercontent.com/natalia-del/LeagueofLegendsAnalysis/refs/heads/main/Descriptions.py
+You’ll find the Python code used for automation, screenshots of the dashboard, and a detailed explanation of how it all works.  
+
+Descriptions:   https://raw.githubusercontent.com/natalia-del/LeagueofLegendsAnalysis/refs/heads/main/Descriptions.py
+
+Default photo:  https://raw.githubusercontent.com/natalia-del/LeagueofLegendsAnalysis/refs/heads/main/LoL.py
+
+Skins:   https://raw.githubusercontent.com/natalia-del/LeagueofLegendsAnalysis/refs/heads/main/Skins.py
+
 ![Zrzut ekranu 2024-12-10 164319](https://github.com/user-attachments/assets/144cc338-6570-4c7f-853e-c36433e1e7c5)
 
 ![image](https://github.com/user-attachments/assets/23cef859-8c23-4b63-aef4-c8fb2379b963)
 
 
 #PowerBI #DataVisualization #DataAnalytics #Python #DashboardDesign
-#Analytics #LeagueOfLegends #GamingAnalytics #GameData #Esports #Gaming
+#Analytics #LeagueOfLegends #GamingAnalytics #GameData #Esports #Gaming #Selenium #Requests #API
